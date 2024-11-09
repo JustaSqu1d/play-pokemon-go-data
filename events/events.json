@@ -1,58 +1,163 @@
 {
+    "worlds2025": {
+        "name": "2025 Pok\u00e9mon World Championships",
+        "id": "worlds2025",
+        "time": 1756666800
+    },
+    "naic2025": {
+        "name": "North America Pok\u00e9mon International Championships 2025",
+        "id": "naic2025",
+        "time": 1749841200
+    },
+    "bologna2025": {
+        "name": "Bologna Pok\u00e9mon Special Event 2025",
+        "id": "bologna2025",
+        "time": 1748674800
+    },
+    "utrecht2025": {
+        "name": "Utrecht Pok\u00e9mon Special Event 2025",
+        "id": "utrecht2025",
+        "time": 1747465200
+    },
+    "santiago2025": {
+        "name": "Santiago Pok\u00e9mon Regional Championships 2025",
+        "id": "santiago2025",
+        "time": 1747465200
+    },
+    "milwaukee2025": {
+        "name": "Milwaukee Pok\u00e9mon Regional Championships 2025",
+        "id": "milwaukee2025",
+        "time": 1746169200
+    },
+    "seville2025": {
+        "name": "Seville Pok\u00e9mon Special Event 2025",
+        "id": "seville2025",
+        "time": 1745650800
+    },
+    "monterrey2025": {
+        "name": "Monterrey Pok\u00e9mon Regional Championships 2025",
+        "id": "monterrey2025",
+        "time": 1745046000
+    },
+    "brisbane2025": {
+        "name": "Brisbane Pok\u00e9mon Regional Championships 2025",
+        "id": "brisbane2025",
+        "time": 1743231600
+    },
+    "stockholm2025": {
+        "name": "Stockholm Pok\u00e9mon Regional Championships 2025",
+        "id": "stockholm2025",
+        "time": 1742626800
+    },
+    "fortaleza2025": {
+        "name": "Fortaleza Pok\u00e9mon Regional Championships 2025",
+        "id": "fortaleza2025",
+        "time": 1741417200
+    },
+    "vancouver2025": {
+        "name": "Vancouver Pok\u00e9mon Regional Championships 2025",
+        "id": "vancouver2025",
+        "time": 1741330800
+    },
+    "euic2025": {
+        "name": "Europe Pok\u00e9mon International Championships 2025",
+        "id": "euic2025",
+        "time": 1740168000
+    },
+    "carolina2025": {
+        "name": "Carolina Pok\u00e9mon Special Event 2025",
+        "id": "carolina2025",
+        "time": 1739602800
+    },
+    "merida2025": {
+        "name": "M\u00e9rida Pok\u00e9mon Regional Championships 2025",
+        "id": "merida2025",
+        "time": 1738998000
+    },
+    "san antonio2025": {
+        "name": "San Antonio Pok\u00e9mon Regional Championships 2025",
+        "id": "san antonio2025",
+        "time": 1737702000
+    },
+    "rio de janeiro2025": {
+        "name": "Rio de Janeiro Pok\u00e9mon Regional Championships 2025",
+        "id": "rio de janeiro2025",
+        "time": 1737183600
+    },
+    "birmingham2025": {
+        "name": "Birmingham Pok\u00e9mon Regional Championships 2025",
+        "id": "birmingham2025",
+        "time": 1737183600
+    },
+    "toronto2025": {
+        "name": "Toronto Pok\u00e9mon Regional Championships 2025",
+        "id": "toronto2025",
+        "time": 1734073200
+    },
+    "perth2025": {
+        "name": "Perth Pok\u00e9mon Regional Championships 2025",
+        "id": "perth2025",
+        "time": 1733554800
+    },
+    "bogota2025": {
+        "name": "Bogot\u00e1 Pok\u00e9mon Special Event 2025",
+        "id": "bogota2025",
+        "time": 1733554800
+    },
+    "stuttgart2025": {
+        "name": "Stuttgart Pok\u00e9mon Regional Championships 2025",
+        "id": "stuttgart2025",
+        "time": 1732950000
+    },
+    "sacramento2025": {
+        "name": "Sacramento Pok\u00e9mon Regional Championships 2025",
+        "id": "sacramento2025",
+        "time": 1732258800
+    },
     "laic2025": {
         "name": "Latin America Pok\u00e9mon International Championships 2025",
         "time": 1731700800,
         "id": "laic2025"
     },
-    "sacramento2025": {
-        "name": "Sacramento Pok\u00e9mon Regional Championships 2025",
-        "time": 1732305600,
-        "id": "sacramento2025"
-    },
-    "stuttgart2025": {
-        "name": "Stuttgart Pok\u00e9mon Regional Championships 2025",
-        "time": 1732996800,
-        "id": "stuttgart2025"
-    },
-    "perth2025": {
-        "name": "Perth Pok\u00e9mon Regional Championships 2025",
-        "time": 1733601600,
-        "id": "perth2025"
-    },
-    "toronto2025": {
-        "name": "Toronto Pok\u00e9mon Regional Championships 2025",
-        "time": 1734120000,
-        "id": "toronto2025"
+    "buenos aires2025": {
+        "name": "Buenos Aires Pok\u00e9mon Special Event 2025",
+        "id": "buenos aires2025",
+        "time": 1731135600
     },
     "gdansk2025": {
-        "name": "Gdansk Pok\u00e9mon Regional Championships 2025",
-        "time": 1730574000,
-        "id": "gdansk2025"
+        "name": "Gda\u0144sk Pok\u00e9mon Regional Championships 2025",
+        "id": "gdansk2025",
+        "time": 1730530800
     },
     "lille2025": {
         "name": "Lille Pok\u00e9mon Regional Championships 2025",
-        "time": 1729364400,
-        "id": "lille2025"
+        "id": "lille2025",
+        "time": 1729321200
     },
     "louisville2025": {
         "name": "Louisville Pok\u00e9mon Regional Championships 2025",
-        "time": 1728673200,
-        "id": "louisville2025"
+        "id": "louisville2025",
+        "time": 1728630000
+    },
+    "lima2025": {
+        "name": "Lima Pok\u00e9mon Special Event 2025",
+        "id": "lima2025",
+        "time": 1728111600
     },
     "joinville2025": {
         "name": "Joinville Pok\u00e9mon Regional Championships 2025",
-        "time": 1727550000,
-        "id": "joinville2025"
+        "id": "joinville2025",
+        "time": 1727506800
     },
     "dortmund2025": {
         "name": "Dortmund Pok\u00e9mon Regional Championships 2025",
-        "time": 1727550000,
-        "id": "dortmund2025"
+        "id": "dortmund2025",
+        "time": 1727506800
     },
     "baltimore2025": {
         "name": "Baltimore Pok\u00e9mon Regional Championships 2025",
-        "time": 1726254000,
-        "id": "baltimore2025"
+        "id": "baltimore2025",
+        "time": 1726210800
     },
     "worlds2024": {
         "name": "2024 Pok\u00e9mon World Championships",
@@ -63,6 +168,11 @@
         "name": "North America Pok\u00e9mon International Championships 2024",
         "time": 1717786800,
         "id": "naic2024"
+    },
+    "bologna2024": {
+        "name": "Bologna Pok\u00e9mon Special Event 2024",
+        "time": 1717268400,
+        "id": "bologna2024"
     },
     "los angeles2024": {
         "name": "Los Angeles Pok\u00e9mon Regional Championships 2024",
@@ -84,15 +194,15 @@
         "time": 1713639600,
         "id": "s\u00e3o paulo2024"
     },
-    "orlando2024": {
-        "name": "Orlando Pok\u00e9mon Regional Championships 2024",
-        "time": 1712948400,
-        "id": "orlando2024"
-    },
     "perth2024": {
         "name": "Perth Pok\u00e9mon Regional Championships 2024",
         "time": 1713034800,
         "id": "perth2024"
+    },
+    "orlando2024": {
+        "name": "Orlando Pok\u00e9mon Regional Championships 2024",
+        "time": 1712948400,
+        "id": "orlando2024"
     },
     "euic2024": {
         "name": "Europe Pok\u00e9mon International Championships 2024",
@@ -109,20 +219,25 @@
         "time": 1710014400,
         "id": "goi\u00e2nia2024"
     },
+    "utrecht2024": {
+        "name": "Utrecht Pok\u00e9mon Special Event 2024",
+        "time": 1709409600,
+        "id": "utrecht2024"
+    },
     "dortmund2024": {
         "name": "Dortmund Pok\u00e9mon Regional Championships 2024",
         "time": 1707595200,
         "id": "dortmund2024"
     },
-    "knoxville2024": {
-        "name": "Knoxville Pok\u00e9mon Regional Championships 2024",
-        "time": 1706904000,
-        "id": "knoxville2024"
-    },
     "melbourne2024": {
         "name": "Melbourne Pok\u00e9mon Regional Championships 2024",
         "time": 1706990400,
         "id": "melbourne2024"
+    },
+    "knoxville2024": {
+        "name": "Knoxville Pok\u00e9mon Regional Championships 2024",
+        "time": 1706904000,
+        "id": "knoxville2024"
     },
     "liverpool2024": {
         "name": "Liverpool Pok\u00e9mon Regional Championships 2024",
@@ -188,6 +303,11 @@
         "name": "Curitiba Pok\u00e9mon Regional Championships 2024",
         "time": 1695495600,
         "id": "curitiba2024"
+    },
+    "barcelona2024": {
+        "name": "Barcelona Pok\u00e9mon Special Event 2024",
+        "time": 1694890800,
+        "id": "barcelona2024"
     },
     "pittsburgh2024": {
         "name": "Pittsburgh Pok\u00e9mon Regional Championships 2024",
