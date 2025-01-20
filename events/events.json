@@ -39,6 +39,11 @@
         "id": "monterrey2025",
         "time": 1745046000
     },
+    "atlanta2025": {
+        "name": "Atlanta Pok\u00e9mon Regional Championships 2025",
+        "id": "atlanta2025",
+        "time": 1744354800
+    },
     "brisbane2025": {
         "name": "Brisbane Pok\u00e9mon Regional Championships 2025",
         "id": "brisbane2025",
@@ -74,12 +79,12 @@
         "id": "merida2025",
         "time": 1738998000
     },
-    "san antonio2025": {
+    "sanantonio2025": {
         "name": "San Antonio Pok\u00e9mon Regional Championships 2025",
         "id": "sanantonio2025",
         "time": 1737702000
     },
-    "rio de janeiro2025": {
+    "riodejaneiro2025": {
         "name": "Rio de Janeiro Pok\u00e9mon Regional Championships 2025",
         "id": "riodejaneiro2025",
         "time": 1737183600
@@ -119,9 +124,9 @@
         "time": 1731700800,
         "id": "laic2025"
     },
-    "buenos aires2025": {
+    "buenosaires2025": {
         "name": "Buenos Aires Pok\u00e9mon Special Event 2025",
-        "id": "buenos aires2025",
+        "id": "buenosaires2025",
         "time": 1731135600
     },
     "gdansk2025": {
@@ -174,7 +179,7 @@
         "time": 1717268400,
         "id": "bologna2024"
     },
-    "los angeles2024": {
+    "losangeles2024": {
         "name": "Los Angeles Pok\u00e9mon Regional Championships 2024",
         "time": 1716577200,
         "id": "losangeles2024"
@@ -189,7 +194,7 @@
         "time": 1714762800,
         "id": "indianapolis2024"
     },
-    "s\u00e3o paulo2024": {
+    "s\u00e3opaulo2024": {
         "name": "S\u00e3o Paulo Pok\u00e9mon Regional Championships 2024",
         "time": 1713639600,
         "id": "s\u00e3opaulo2024"
@@ -254,7 +259,7 @@
         "time": 1704484800,
         "id": "portland2024"
     },
-    "san antonio2024": {
+    "sanantonio2024": {
         "name": "San Antonio Pok\u00e9mon Regional Championships 2024",
         "time": 1702670400,
         "id": "sanantonio2024"
@@ -318,5 +323,10 @@
         "name": "2023 Pok\u00e9mon World Championships",
         "time": 1691780400,
         "id": "worlds2023"
+    },
+    "naic2023": {
+        "name": "North America Pok\u00e9mon International Championships 2023",
+        "time": 1688108400,
+        "id": "naic2023"
     }
 }
