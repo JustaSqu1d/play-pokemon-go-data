@@ -1,0 +1,1387 @@
+{
+    "standings": {
+        "MartoGalde": {
+            "player_name": "MartoGalde",
+            "rank": 1,
+            "wins": 9,
+            "losses": 1,
+            "game_wins": 21,
+            "game_losses": 6
+        },
+        "Sebasmalito": {
+            "player_name": "Sebasmalito",
+            "rank": 2,
+            "wins": 6,
+            "losses": 2,
+            "game_wins": 14,
+            "game_losses": 7
+        },
+        "memiGRR": {
+            "player_name": "memiGRR",
+            "rank": 3,
+            "wins": 5,
+            "losses": 2,
+            "game_wins": 13,
+            "game_losses": 8
+        },
+        "JavierV20": {
+            "player_name": "JavierV20",
+            "rank": 4,
+            "wins": 6,
+            "losses": 2,
+            "game_wins": 10,
+            "game_losses": 6
+        },
+        "desinked": {
+            "player_name": "desinked",
+            "rank": 5,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 6,
+            "game_losses": 4
+        },
+        "AxelJeanPaul": {
+            "player_name": "AxelJeanPaul",
+            "rank": 5,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 9,
+            "game_losses": 7
+        },
+        "AngelloGVH": {
+            "player_name": "AngelloGVH",
+            "rank": 7,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 9,
+            "game_losses": 6
+        },
+        "Samy85": {
+            "player_name": "Samy85",
+            "rank": 7,
+            "wins": 6,
+            "losses": 2,
+            "game_wins": 11,
+            "game_losses": 6
+        },
+        "Cesarrr07VF": {
+            "player_name": "Cesarrr07VF",
+            "rank": 9,
+            "wins": 5,
+            "losses": 2,
+            "game_wins": 10,
+            "game_losses": 4
+        },
+        "revolucion38": {
+            "player_name": "revolucion38",
+            "rank": 9,
+            "wins": 3,
+            "losses": 2,
+            "game_wins": 8,
+            "game_losses": 6
+        },
+        "ArceusAurelius": {
+            "player_name": "ArceusAurelius",
+            "rank": 9,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 5,
+            "game_losses": 6
+        },
+        "IceCr1S": {
+            "player_name": "IceCr1S",
+            "rank": 9,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 9,
+            "game_losses": 6
+        },
+        "BryceMS2602": {
+            "player_name": "BryceMS2602",
+            "rank": 13,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 6,
+            "game_losses": 4
+        },
+        "kurosakiJM95": {
+            "player_name": "kurosakiJM95",
+            "rank": 13,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 9,
+            "game_losses": 6
+        },
+        "AndresOptim": {
+            "player_name": "AndresOptim",
+            "rank": 13,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 7,
+            "game_losses": 5
+        },
+        "RodrigoclRED": {
+            "player_name": "RodrigoclRED",
+            "rank": 13,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 10,
+            "game_losses": 6
+        },
+        "aandrexd": {
+            "player_name": "aandrexd",
+            "rank": 17,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 2,
+            "game_losses": 4
+        },
+        "alucardgab": {
+            "player_name": "alucardgab",
+            "rank": 17,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 5,
+            "game_losses": 5
+        },
+        "AndrewManjarrez": {
+            "player_name": "AndrewManjarrez",
+            "rank": 17,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 5,
+            "game_losses": 5
+        },
+        "llRoyZSll": {
+            "player_name": "llRoyZSll",
+            "rank": 17,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 5,
+            "game_losses": 5
+        },
+        "24Itachi24": {
+            "player_name": "24Itachi24",
+            "rank": 17,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 5,
+            "game_losses": 6
+        },
+        "Aaroncamp2102": {
+            "player_name": "Aaroncamp2102",
+            "rank": 17,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 6,
+            "game_losses": 6
+        },
+        "Bryanderson0511": {
+            "player_name": "Bryanderson0511",
+            "rank": 17,
+            "wins": 3,
+            "losses": 2,
+            "game_wins": 7,
+            "game_losses": 6
+        },
+        "D7LuisTaZ12": {
+            "player_name": "D7LuisTaZ12",
+            "rank": 17,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 5,
+            "game_losses": 4
+        },
+        "1SoulEater": {
+            "player_name": "1SoulEater",
+            "rank": 25,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 4,
+            "game_losses": 6
+        },
+        "COBAcn": {
+            "player_name": "COBAcn",
+            "rank": 25,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "MrSlornax": {
+            "player_name": "MrSlornax",
+            "rank": 25,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 2,
+            "game_losses": 5
+        },
+        "Therion1191": {
+            "player_name": "Therion1191",
+            "rank": 25,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 2,
+            "game_losses": 2
+        },
+        "bastizaard": {
+            "player_name": "bastizaard",
+            "rank": 25,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 6,
+            "game_losses": 5
+        },
+        "FerQuiroz98": {
+            "player_name": "FerQuiroz98",
+            "rank": 25,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 5,
+            "game_losses": 4
+        },
+        "JulioFii": {
+            "player_name": "JulioFii",
+            "rank": 25,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 5,
+            "game_losses": 4
+        },
+        "Varo0": {
+            "player_name": "Varo0",
+            "rank": 25,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 6,
+            "game_losses": 4
+        },
+        "IngChemicall": {
+            "player_name": "IngChemicall",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 2,
+            "game_losses": 3
+        },
+        "lBlackAgumon92": {
+            "player_name": "lBlackAgumon92",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 4,
+            "game_losses": 4
+        },
+        "LuisMaddox26": {
+            "player_name": "LuisMaddox26",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 2,
+            "game_losses": 4
+        },
+        "MatiloQuinn": {
+            "player_name": "MatiloQuinn",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 3
+        },
+        "Minatoj1": {
+            "player_name": "Minatoj1",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "SrGafaz": {
+            "player_name": "SrGafaz",
+            "rank": 33,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "WtluistW2": {
+            "player_name": "WtluistW2",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 4,
+            "game_losses": 4
+        },
+        "YonkouJean": {
+            "player_name": "YonkouJean",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 3,
+            "game_losses": 4
+        },
+        "BjzHuntergust04": {
+            "player_name": "BjzHuntergust04",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 3,
+            "game_losses": 5
+        },
+        "CarlosRSNet": {
+            "player_name": "CarlosRSNet",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 3
+        },
+        "D7DesafioSeven": {
+            "player_name": "D7DesafioSeven",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 3
+        },
+        "Darkhunter1805": {
+            "player_name": "Darkhunter1805",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 2,
+            "game_losses": 5
+        },
+        "Escombraura": {
+            "player_name": "Escombraura",
+            "rank": 33,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 2,
+            "game_losses": 4
+        },
+        "KishiTH": {
+            "player_name": "KishiTH",
+            "rank": 33,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 4
+        },
+        "lIElGatolI": {
+            "player_name": "lIElGatolI",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 2,
+            "game_losses": 4
+        },
+        "LuiZer25": {
+            "player_name": "LuiZer25",
+            "rank": 33,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 3
+        },
+        "FennhiES": {
+            "player_name": "FennhiES",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 4
+        },
+        "ger161092": {
+            "player_name": "ger161092",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 4
+        },
+        "Ladodi23": {
+            "player_name": "Ladodi23",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "lNuclearWinterl": {
+            "player_name": "lNuclearWinterl",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "SanchezLuis29": {
+            "player_name": "SanchezLuis29",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 2
+        },
+        "Yriuyud": {
+            "player_name": "Yriuyud",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 4
+        },
+        "ImAPeruvianCat": {
+            "player_name": "ImAPeruvianCat",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 4
+        },
+        "javichoVC27": {
+            "player_name": "javichoVC27",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 4
+        },
+        "JUNLURIO": {
+            "player_name": "JUNLURIO",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "Molimarquino": {
+            "player_name": "Molimarquino",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 2
+        },
+        "VarsomLykt": {
+            "player_name": "VarsomLykt",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "YonkouYuki19": {
+            "player_name": "YonkouYuki19",
+            "rank": 49,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 2,
+            "game_losses": 4
+        }
+    },
+    "brackets": {
+        "main_brackets": {
+            "1": [
+                {
+                    "player1": "Sebasmalito",
+                    "player2": "memiGRR",
+                    "player1_score": 3,
+                    "player2_score": 1,
+                    "winner": "Sebasmalito"
+                }
+            ],
+            "-1": [
+                {
+                    "player1": "MartoGalde",
+                    "player2": "JavierV20",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "MartoGalde"
+                }
+            ],
+            "-2": [
+                {
+                    "player1": "memiGRR",
+                    "player2": "MartoGalde",
+                    "player1_score": 2,
+                    "player2_score": 3,
+                    "winner": "MartoGalde"
+                }
+            ],
+            "2": [
+                {
+                    "player1": "Sebasmalito",
+                    "player2": "MartoGalde",
+                    "player1_score": 0,
+                    "player2_score": 3,
+                    "winner": "MartoGalde"
+                },
+                {
+                    "player1": "MartoGalde",
+                    "player2": "Sebasmalito",
+                    "player1_score": 3,
+                    "player2_score": 1,
+                    "winner": "MartoGalde"
+                }
+            ]
+        },
+        "group_brackets": {
+            "Group A": {
+                "1": [
+                    {
+                        "player1": "COBAcn",
+                        "player2": "SrGafaz",
+                        "player1_score": -1,
+                        "player2_score": -2,
+                        "winner": "COBAcn"
+                    },
+                    {
+                        "player1": "Sebasmalito",
+                        "player2": "ger161092",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "Sebasmalito"
+                    },
+                    {
+                        "player1": "BryceMS2602",
+                        "player2": "LuisMaddox26",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "BryceMS2602"
+                    },
+                    {
+                        "player1": "Cesarrr07VF",
+                        "player2": "FennhiES",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "Cesarrr07VF"
+                    },
+                    {
+                        "player1": "WtluistW2",
+                        "player2": "alucardgab",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "alucardgab"
+                    },
+                    {
+                        "player1": "AngelloGVH",
+                        "player2": "SanchezLuis29",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "AngelloGVH"
+                    },
+                    {
+                        "player1": "lBlackAgumon92",
+                        "player2": "MatiloQuinn",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "lBlackAgumon92"
+                    },
+                    {
+                        "player1": "llRoyZSll",
+                        "player2": "MrSlornax",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "llRoyZSll"
+                    },
+                    {
+                        "player1": "revolucion38",
+                        "player2": "Yriuyud",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "revolucion38"
+                    },
+                    {
+                        "player1": "1SoulEater",
+                        "player2": "YonkouJean",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "1SoulEater"
+                    },
+                    {
+                        "player1": "desinked",
+                        "player2": "Ladodi23",
+                        "player1_score": 0,
+                        "player2_score": -1,
+                        "winner": "desinked"
+                    },
+                    {
+                        "player1": "kurosakiJM95",
+                        "player2": "IngChemicall",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "kurosakiJM95"
+                    },
+                    {
+                        "player1": "Therion1191",
+                        "player2": "Minatoj1",
+                        "player1_score": 0,
+                        "player2_score": -1,
+                        "winner": "Therion1191"
+                    },
+                    {
+                        "player1": "aandrexd",
+                        "player2": "lNuclearWinterl",
+                        "player1_score": 0,
+                        "player2_score": -1,
+                        "winner": "aandrexd"
+                    }
+                ],
+                "2": [
+                    {
+                        "player1": "JavierV20",
+                        "player2": "COBAcn",
+                        "player1_score": 0,
+                        "player2_score": -1,
+                        "winner": "JavierV20"
+                    },
+                    {
+                        "player1": "Sebasmalito",
+                        "player2": "BryceMS2602",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "Sebasmalito"
+                    },
+                    {
+                        "player1": "Cesarrr07VF",
+                        "player2": "alucardgab",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "alucardgab"
+                    },
+                    {
+                        "player1": "AngelloGVH",
+                        "player2": "lBlackAgumon92",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "AngelloGVH"
+                    },
+                    {
+                        "player1": "AndrewManjarrez",
+                        "player2": "llRoyZSll",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "llRoyZSll"
+                    },
+                    {
+                        "player1": "revolucion38",
+                        "player2": "1SoulEater",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "revolucion38"
+                    },
+                    {
+                        "player1": "desinked",
+                        "player2": "kurosakiJM95",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "desinked"
+                    },
+                    {
+                        "player1": "Therion1191",
+                        "player2": "aandrexd",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "aandrexd"
+                    }
+                ],
+                "3": [
+                    {
+                        "player1": "JavierV20",
+                        "player2": "Sebasmalito",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "Sebasmalito"
+                    },
+                    {
+                        "player1": "alucardgab",
+                        "player2": "AngelloGVH",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "AngelloGVH"
+                    },
+                    {
+                        "player1": "llRoyZSll",
+                        "player2": "revolucion38",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "revolucion38"
+                    },
+                    {
+                        "player1": "desinked",
+                        "player2": "aandrexd",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "desinked"
+                    }
+                ],
+                "4": [
+                    {
+                        "player1": "Sebasmalito",
+                        "player2": "AngelloGVH",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "Sebasmalito"
+                    },
+                    {
+                        "player1": "revolucion38",
+                        "player2": "desinked",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "desinked"
+                    }
+                ],
+                "5": [
+                    {
+                        "player1": "Sebasmalito",
+                        "player2": "desinked",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "Sebasmalito"
+                    }
+                ],
+                "-1": [
+                    {
+                        "player1": "ger161092",
+                        "player2": "LuisMaddox26",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "LuisMaddox26"
+                    },
+                    {
+                        "player1": "FennhiES",
+                        "player2": "WtluistW2",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "WtluistW2"
+                    },
+                    {
+                        "player1": "SanchezLuis29",
+                        "player2": "MatiloQuinn",
+                        "player1_score": -1,
+                        "player2_score": 0,
+                        "winner": "MatiloQuinn"
+                    },
+                    {
+                        "player1": "Yriuyud",
+                        "player2": "YonkouJean",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "YonkouJean"
+                    },
+                    {
+                        "player1": "Ladodi23",
+                        "player2": "IngChemicall",
+                        "player1_score": -1,
+                        "player2_score": 0,
+                        "winner": "IngChemicall"
+                    },
+                    {
+                        "player1": "Minatoj1",
+                        "player2": "lNuclearWinterl",
+                        "player1_score": -1,
+                        "player2_score": -2,
+                        "winner": "Minatoj1"
+                    }
+                ],
+                "-2": [
+                    {
+                        "player1": "Therion1191",
+                        "player2": "SrGafaz",
+                        "player1_score": 0,
+                        "player2_score": -1,
+                        "winner": "Therion1191"
+                    },
+                    {
+                        "player1": "kurosakiJM95",
+                        "player2": "LuisMaddox26",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "kurosakiJM95"
+                    },
+                    {
+                        "player1": "1SoulEater",
+                        "player2": "WtluistW2",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "1SoulEater"
+                    },
+                    {
+                        "player1": "AndrewManjarrez",
+                        "player2": "MatiloQuinn",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "AndrewManjarrez"
+                    },
+                    {
+                        "player1": "lBlackAgumon92",
+                        "player2": "MrSlornax",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "MrSlornax"
+                    },
+                    {
+                        "player1": "Cesarrr07VF",
+                        "player2": "YonkouJean",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "Cesarrr07VF"
+                    },
+                    {
+                        "player1": "BryceMS2602",
+                        "player2": "IngChemicall",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "BryceMS2602"
+                    },
+                    {
+                        "player1": "COBAcn",
+                        "player2": "Minatoj1",
+                        "player1_score": -1,
+                        "player2_score": -2,
+                        "winner": "COBAcn"
+                    }
+                ],
+                "-3": [
+                    {
+                        "player1": "Therion1191",
+                        "player2": "kurosakiJM95",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "kurosakiJM95"
+                    },
+                    {
+                        "player1": "1SoulEater",
+                        "player2": "AndrewManjarrez",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "AndrewManjarrez"
+                    },
+                    {
+                        "player1": "MrSlornax",
+                        "player2": "Cesarrr07VF",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "Cesarrr07VF"
+                    },
+                    {
+                        "player1": "BryceMS2602",
+                        "player2": "COBAcn",
+                        "player1_score": 0,
+                        "player2_score": -1,
+                        "winner": "BryceMS2602"
+                    }
+                ],
+                "-4": [
+                    {
+                        "player1": "alucardgab",
+                        "player2": "kurosakiJM95",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "kurosakiJM95"
+                    },
+                    {
+                        "player1": "JavierV20",
+                        "player2": "AndrewManjarrez",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "JavierV20"
+                    },
+                    {
+                        "player1": "aandrexd",
+                        "player2": "Cesarrr07VF",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "Cesarrr07VF"
+                    },
+                    {
+                        "player1": "llRoyZSll",
+                        "player2": "BryceMS2602",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "BryceMS2602"
+                    }
+                ],
+                "-5": [
+                    {
+                        "player1": "kurosakiJM95",
+                        "player2": "JavierV20",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "JavierV20"
+                    },
+                    {
+                        "player1": "Cesarrr07VF",
+                        "player2": "BryceMS2602",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "Cesarrr07VF"
+                    }
+                ],
+                "-6": [
+                    {
+                        "player1": "revolucion38",
+                        "player2": "JavierV20",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "JavierV20"
+                    },
+                    {
+                        "player1": "AngelloGVH",
+                        "player2": "Cesarrr07VF",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "AngelloGVH"
+                    }
+                ],
+                "-7": [
+                    {
+                        "player1": "JavierV20",
+                        "player2": "AngelloGVH",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "JavierV20"
+                    }
+                ],
+                "-8": [
+                    {
+                        "player1": "desinked",
+                        "player2": "JavierV20",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "JavierV20"
+                    }
+                ]
+            },
+            "Group B": {
+                "1": [
+                    {
+                        "player1": "Darkhunter1805",
+                        "player2": "Escombraura",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "Darkhunter1805"
+                    },
+                    {
+                        "player1": "FerQuiroz98",
+                        "player2": "JulioFii",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "JulioFii"
+                    },
+                    {
+                        "player1": "D7LuisTaZ12",
+                        "player2": "javichoVC27",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "D7LuisTaZ12"
+                    },
+                    {
+                        "player1": "memiGRR",
+                        "player2": "lIElGatolI",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "memiGRR"
+                    },
+                    {
+                        "player1": "ImAPeruvianCat",
+                        "player2": "BjzHuntergust04",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "BjzHuntergust04"
+                    },
+                    {
+                        "player1": "Varo0",
+                        "player2": "Molimarquino",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "Varo0"
+                    },
+                    {
+                        "player1": "24Itachi24",
+                        "player2": "CarlosRSNet",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "24Itachi24"
+                    },
+                    {
+                        "player1": "RodrigoclRED",
+                        "player2": "KishiTH",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "RodrigoclRED"
+                    },
+                    {
+                        "player1": "bastizaard",
+                        "player2": "Bryanderson0511",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "bastizaard"
+                    },
+                    {
+                        "player1": "Aaroncamp2102",
+                        "player2": "YonkouYuki19",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "Aaroncamp2102"
+                    },
+                    {
+                        "player1": "IceCr1S",
+                        "player2": "D7DesafioSeven",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "IceCr1S"
+                    },
+                    {
+                        "player1": "LuiZer25",
+                        "player2": "VarsomLykt",
+                        "player1_score": 0,
+                        "player2_score": -1,
+                        "winner": "LuiZer25"
+                    },
+                    {
+                        "player1": "Samy85",
+                        "player2": "JUNLURIO",
+                        "player1_score": 0,
+                        "player2_score": -1,
+                        "winner": "Samy85"
+                    },
+                    {
+                        "player1": "AxelJeanPaul",
+                        "player2": "AndresOptim",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "AxelJeanPaul"
+                    }
+                ],
+                "2": [
+                    {
+                        "player1": "MartoGalde",
+                        "player2": "Darkhunter1805",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "MartoGalde"
+                    },
+                    {
+                        "player1": "JulioFii",
+                        "player2": "D7LuisTaZ12",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "D7LuisTaZ12"
+                    },
+                    {
+                        "player1": "memiGRR",
+                        "player2": "BjzHuntergust04",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "memiGRR"
+                    },
+                    {
+                        "player1": "Varo0",
+                        "player2": "24Itachi24",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "24Itachi24"
+                    },
+                    {
+                        "player1": "ArceusAurelius",
+                        "player2": "RodrigoclRED",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "ArceusAurelius"
+                    },
+                    {
+                        "player1": "bastizaard",
+                        "player2": "Aaroncamp2102",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "Aaroncamp2102"
+                    },
+                    {
+                        "player1": "IceCr1S",
+                        "player2": "LuiZer25",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "IceCr1S"
+                    },
+                    {
+                        "player1": "Samy85",
+                        "player2": "AxelJeanPaul",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "AxelJeanPaul"
+                    }
+                ],
+                "3": [
+                    {
+                        "player1": "MartoGalde",
+                        "player2": "D7LuisTaZ12",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "MartoGalde"
+                    },
+                    {
+                        "player1": "memiGRR",
+                        "player2": "24Itachi24",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "memiGRR"
+                    },
+                    {
+                        "player1": "ArceusAurelius",
+                        "player2": "Aaroncamp2102",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "ArceusAurelius"
+                    },
+                    {
+                        "player1": "IceCr1S",
+                        "player2": "AxelJeanPaul",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "AxelJeanPaul"
+                    }
+                ],
+                "4": [
+                    {
+                        "player1": "MartoGalde",
+                        "player2": "memiGRR",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "memiGRR"
+                    },
+                    {
+                        "player1": "ArceusAurelius",
+                        "player2": "AxelJeanPaul",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "AxelJeanPaul"
+                    }
+                ],
+                "5": [
+                    {
+                        "player1": "memiGRR",
+                        "player2": "AxelJeanPaul",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "memiGRR"
+                    }
+                ],
+                "-1": [
+                    {
+                        "player1": "FerQuiroz98",
+                        "player2": "javichoVC27",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "FerQuiroz98"
+                    },
+                    {
+                        "player1": "lIElGatolI",
+                        "player2": "ImAPeruvianCat",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "lIElGatolI"
+                    },
+                    {
+                        "player1": "Molimarquino",
+                        "player2": "CarlosRSNet",
+                        "player1_score": -1,
+                        "player2_score": 0,
+                        "winner": "CarlosRSNet"
+                    },
+                    {
+                        "player1": "Bryanderson0511",
+                        "player2": "YonkouYuki19",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "Bryanderson0511"
+                    },
+                    {
+                        "player1": "D7DesafioSeven",
+                        "player2": "VarsomLykt",
+                        "player1_score": 0,
+                        "player2_score": -1,
+                        "winner": "D7DesafioSeven"
+                    },
+                    {
+                        "player1": "JUNLURIO",
+                        "player2": "AndresOptim",
+                        "player1_score": -1,
+                        "player2_score": 0,
+                        "winner": "AndresOptim"
+                    }
+                ],
+                "-2": [
+                    {
+                        "player1": "Samy85",
+                        "player2": "Escombraura",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "Samy85"
+                    },
+                    {
+                        "player1": "LuiZer25",
+                        "player2": "FerQuiroz98",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "FerQuiroz98"
+                    },
+                    {
+                        "player1": "bastizaard",
+                        "player2": "lIElGatolI",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "bastizaard"
+                    },
+                    {
+                        "player1": "RodrigoclRED",
+                        "player2": "CarlosRSNet",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "RodrigoclRED"
+                    },
+                    {
+                        "player1": "Varo0",
+                        "player2": "KishiTH",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "Varo0"
+                    },
+                    {
+                        "player1": "BjzHuntergust04",
+                        "player2": "Bryanderson0511",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "Bryanderson0511"
+                    },
+                    {
+                        "player1": "JulioFii",
+                        "player2": "D7DesafioSeven",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "JulioFii"
+                    },
+                    {
+                        "player1": "Darkhunter1805",
+                        "player2": "AndresOptim",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "AndresOptim"
+                    }
+                ],
+                "-3": [
+                    {
+                        "player1": "Samy85",
+                        "player2": "FerQuiroz98",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "Samy85"
+                    },
+                    {
+                        "player1": "bastizaard",
+                        "player2": "RodrigoclRED",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "RodrigoclRED"
+                    },
+                    {
+                        "player1": "Varo0",
+                        "player2": "Bryanderson0511",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "Bryanderson0511"
+                    },
+                    {
+                        "player1": "JulioFii",
+                        "player2": "AndresOptim",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "AndresOptim"
+                    }
+                ],
+                "-4": [
+                    {
+                        "player1": "24Itachi24",
+                        "player2": "Samy85",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "Samy85"
+                    },
+                    {
+                        "player1": "D7LuisTaZ12",
+                        "player2": "RodrigoclRED",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "RodrigoclRED"
+                    },
+                    {
+                        "player1": "IceCr1S",
+                        "player2": "Bryanderson0511",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "IceCr1S"
+                    },
+                    {
+                        "player1": "Aaroncamp2102",
+                        "player2": "AndresOptim",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "AndresOptim"
+                    }
+                ],
+                "-5": [
+                    {
+                        "player1": "Samy85",
+                        "player2": "RodrigoclRED",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "Samy85"
+                    },
+                    {
+                        "player1": "IceCr1S",
+                        "player2": "AndresOptim",
+                        "player1_score": 2,
+                        "player2_score": 1,
+                        "winner": "IceCr1S"
+                    }
+                ],
+                "-6": [
+                    {
+                        "player1": "ArceusAurelius",
+                        "player2": "Samy85",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "Samy85"
+                    },
+                    {
+                        "player1": "MartoGalde",
+                        "player2": "IceCr1S",
+                        "player1_score": 2,
+                        "player2_score": 0,
+                        "winner": "MartoGalde"
+                    }
+                ],
+                "-7": [
+                    {
+                        "player1": "Samy85",
+                        "player2": "MartoGalde",
+                        "player1_score": 0,
+                        "player2_score": 2,
+                        "winner": "MartoGalde"
+                    }
+                ],
+                "-8": [
+                    {
+                        "player1": "AxelJeanPaul",
+                        "player2": "MartoGalde",
+                        "player1_score": 1,
+                        "player2_score": 2,
+                        "winner": "MartoGalde"
+                    }
+                ]
+            }
+        }
+    }
+}

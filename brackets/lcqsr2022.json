@@ -1,0 +1,165 @@
+{
+    "standings": {
+        "Thrasher2605": {
+            "player_name": "Thrasher2605",
+            "rank": 1,
+            "wins": 4,
+            "losses": 0,
+            "game_wins": 10,
+            "game_losses": 1
+        },
+        "colin0815": {
+            "player_name": "colin0815",
+            "rank": 2,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 11,
+            "game_losses": 6
+        },
+        "BarrazaMILA": {
+            "player_name": "BarrazaMILA",
+            "rank": 3,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 4,
+            "game_losses": 4
+        },
+        "StylishRabbit": {
+            "player_name": "StylishRabbit",
+            "rank": 4,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 3,
+            "game_losses": 2
+        },
+        "kinderbro123": {
+            "player_name": "kinderbro123",
+            "rank": 5,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 2
+        },
+        "Roadmatthew9": {
+            "player_name": "Roadmatthew9",
+            "rank": 5,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 4
+        },
+        "LowtideLapras": {
+            "player_name": "LowtideLapras",
+            "rank": 7,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 4
+        }
+    },
+    "brackets": {
+        "main_brackets": {
+            "1": [
+                {
+                    "player1": "Roadmatthew9",
+                    "player2": "BarrazaMILA",
+                    "player1_score": -1,
+                    "player2_score": 2,
+                    "winner": "BarrazaMILA"
+                },
+                {
+                    "player1": "colin0815",
+                    "player2": "StylishRabbit",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "colin0815"
+                },
+                {
+                    "player1": "LowtideLapras",
+                    "player2": "Thrasher2605",
+                    "player1_score": -1,
+                    "player2_score": 2,
+                    "winner": "Thrasher2605"
+                }
+            ],
+            "2": [
+                {
+                    "player1": "kinderbro123",
+                    "player2": "BarrazaMILA",
+                    "player1_score": -1,
+                    "player2_score": 2,
+                    "winner": "BarrazaMILA"
+                },
+                {
+                    "player1": "colin0815",
+                    "player2": "Thrasher2605",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "Thrasher2605"
+                }
+            ],
+            "3": [
+                {
+                    "player1": "BarrazaMILA",
+                    "player2": "Thrasher2605",
+                    "player1_score": 0,
+                    "player2_score": 3,
+                    "winner": "Thrasher2605"
+                }
+            ],
+            "-1": [
+                {
+                    "player1": "StylishRabbit",
+                    "player2": "LowtideLapras",
+                    "player1_score": 2,
+                    "player2_score": -1,
+                    "winner": "StylishRabbit"
+                }
+            ],
+            "-2": [
+                {
+                    "player1": "colin0815",
+                    "player2": "Roadmatthew9",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "colin0815"
+                },
+                {
+                    "player1": "kinderbro123",
+                    "player2": "StylishRabbit",
+                    "player1_score": -1,
+                    "player2_score": 0,
+                    "winner": "StylishRabbit"
+                }
+            ],
+            "-3": [
+                {
+                    "player1": "colin0815",
+                    "player2": "StylishRabbit",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "colin0815"
+                }
+            ],
+            "-4": [
+                {
+                    "player1": "BarrazaMILA",
+                    "player2": "colin0815",
+                    "player1_score": 0,
+                    "player2_score": 3,
+                    "winner": "colin0815"
+                }
+            ],
+            "4": [
+                {
+                    "player1": "Thrasher2605",
+                    "player2": "colin0815",
+                    "player1_score": 3,
+                    "player2_score": 2,
+                    "winner": "Thrasher2605"
+                }
+            ]
+        },
+        "group_brackets": {}
+    }
+}

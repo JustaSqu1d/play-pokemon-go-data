@@ -1,0 +1,279 @@
+{
+    "standings": {
+        "MEweedle": {
+            "player_name": "MEweedle",
+            "rank": 1,
+            "wins": 4,
+            "losses": 0,
+            "game_wins": 10,
+            "game_losses": 2
+        },
+        "alan716": {
+            "player_name": "alan716",
+            "rank": 2,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 11,
+            "game_losses": 9
+        },
+        "wdage": {
+            "player_name": "wdage",
+            "rank": 3,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 9,
+            "game_losses": 6
+        },
+        "HotPoket777": {
+            "player_name": "HotPoket777",
+            "rank": 4,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 5,
+            "game_losses": 4
+        },
+        "KimiSui227": {
+            "player_name": "KimiSui227",
+            "rank": 5,
+            "wins": 3,
+            "losses": 2,
+            "game_wins": 6,
+            "game_losses": 6
+        },
+        "PvpDavid07": {
+            "player_name": "PvpDavid07",
+            "rank": 5,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 3,
+            "game_losses": 4
+        },
+        "birdpower13": {
+            "player_name": "birdpower13",
+            "rank": 7,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 4,
+            "game_losses": 5
+        },
+        "EightShip5": {
+            "player_name": "EightShip5",
+            "rank": 7,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 5,
+            "game_losses": 4
+        },
+        "KhaleesiFitzy": {
+            "player_name": "KhaleesiFitzy",
+            "rank": 9,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 4
+        },
+        "lidorkork": {
+            "player_name": "lidorkork",
+            "rank": 9,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 4
+        },
+        "RTLouie426": {
+            "player_name": "RTLouie426",
+            "rank": 9,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 4
+        },
+        "Thrasher2605": {
+            "player_name": "Thrasher2605",
+            "rank": 9,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 4
+        }
+    },
+    "brackets": {
+        "main_brackets": {
+            "1": [
+                {
+                    "player1": "KimiSui227",
+                    "player2": "KhaleesiFitzy",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "KimiSui227"
+                },
+                {
+                    "player1": "EightShip5",
+                    "player2": "Thrasher2605",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "EightShip5"
+                },
+                {
+                    "player1": "lidorkork",
+                    "player2": "alan716",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "alan716"
+                },
+                {
+                    "player1": "birdpower13",
+                    "player2": "RTLouie426",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "birdpower13"
+                }
+            ],
+            "2": [
+                {
+                    "player1": "MEweedle",
+                    "player2": "KimiSui227",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "MEweedle"
+                },
+                {
+                    "player1": "PvpDavid07",
+                    "player2": "EightShip5",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "PvpDavid07"
+                },
+                {
+                    "player1": "wdage",
+                    "player2": "alan716",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "alan716"
+                },
+                {
+                    "player1": "HotPoket777",
+                    "player2": "birdpower13",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "HotPoket777"
+                }
+            ],
+            "3": [
+                {
+                    "player1": "MEweedle",
+                    "player2": "PvpDavid07",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "MEweedle"
+                },
+                {
+                    "player1": "alan716",
+                    "player2": "HotPoket777",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "alan716"
+                }
+            ],
+            "4": [
+                {
+                    "player1": "MEweedle",
+                    "player2": "alan716",
+                    "player1_score": 3,
+                    "player2_score": 0,
+                    "winner": "MEweedle"
+                }
+            ],
+            "-1": [
+                {
+                    "player1": "birdpower13",
+                    "player2": "KhaleesiFitzy",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "birdpower13"
+                },
+                {
+                    "player1": "wdage",
+                    "player2": "Thrasher2605",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "wdage"
+                },
+                {
+                    "player1": "EightShip5",
+                    "player2": "lidorkork",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "EightShip5"
+                },
+                {
+                    "player1": "KimiSui227",
+                    "player2": "RTLouie426",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "KimiSui227"
+                }
+            ],
+            "-2": [
+                {
+                    "player1": "birdpower13",
+                    "player2": "wdage",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "wdage"
+                },
+                {
+                    "player1": "EightShip5",
+                    "player2": "KimiSui227",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "KimiSui227"
+                }
+            ],
+            "-3": [
+                {
+                    "player1": "PvpDavid07",
+                    "player2": "wdage",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "wdage"
+                },
+                {
+                    "player1": "HotPoket777",
+                    "player2": "KimiSui227",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "HotPoket777"
+                }
+            ],
+            "-4": [
+                {
+                    "player1": "wdage",
+                    "player2": "HotPoket777",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "wdage"
+                }
+            ],
+            "-5": [
+                {
+                    "player1": "alan716",
+                    "player2": "wdage",
+                    "player1_score": 3,
+                    "player2_score": 1,
+                    "winner": "alan716"
+                }
+            ],
+            "5": [
+                {
+                    "player1": "MEweedle",
+                    "player2": "alan716",
+                    "player1_score": 3,
+                    "player2_score": 2,
+                    "winner": "MEweedle"
+                }
+            ]
+        },
+        "group_brackets": {}
+    }
+}

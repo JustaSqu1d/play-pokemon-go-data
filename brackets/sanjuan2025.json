@@ -1,0 +1,483 @@
+{
+    "standings": {
+        "OutOfPoket": {
+            "player_name": "OutOfPoket",
+            "rank": 1,
+            "wins": 5,
+            "losses": 0,
+            "game_wins": 12,
+            "game_losses": 2
+        },
+        "kagmpwtpd": {
+            "player_name": "kagmpwtpd",
+            "rank": 2,
+            "wins": 6,
+            "losses": 2,
+            "game_wins": 15,
+            "game_losses": 8
+        },
+        "ArceusAurelius": {
+            "player_name": "ArceusAurelius",
+            "rank": 3,
+            "wins": 3,
+            "losses": 2,
+            "game_wins": 6,
+            "game_losses": 8
+        },
+        "uoynehc": {
+            "player_name": "uoynehc",
+            "rank": 4,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 10,
+            "game_losses": 5
+        },
+        "LWJosh91": {
+            "player_name": "LWJosh91",
+            "rank": 5,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 8,
+            "game_losses": 5
+        },
+        "ogBlairstoise": {
+            "player_name": "ogBlairstoise",
+            "rank": 5,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 3,
+            "game_losses": 4
+        },
+        "Balk88": {
+            "player_name": "Balk88",
+            "rank": 7,
+            "wins": 3,
+            "losses": 2,
+            "game_wins": 6,
+            "game_losses": 5
+        },
+        "blepnir": {
+            "player_name": "blepnir",
+            "rank": 7,
+            "wins": 4,
+            "losses": 2,
+            "game_wins": 7,
+            "game_losses": 5
+        },
+        "Equarican": {
+            "player_name": "Equarican",
+            "rank": 9,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 3,
+            "game_losses": 5
+        },
+        "IronVortex": {
+            "player_name": "IronVortex",
+            "rank": 9,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 2
+        },
+        "manintheplanet": {
+            "player_name": "manintheplanet",
+            "rank": 9,
+            "wins": 2,
+            "losses": 2,
+            "game_wins": 3,
+            "game_losses": 3
+        },
+        "Rangasamy": {
+            "player_name": "Rangasamy",
+            "rank": 9,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 3
+        },
+        "Christianayala1": {
+            "player_name": "Christianayala1",
+            "rank": 13,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 3,
+            "game_losses": 4
+        },
+        "Emgkush": {
+            "player_name": "Emgkush",
+            "rank": 13,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "goateeVGC": {
+            "player_name": "goateeVGC",
+            "rank": 13,
+            "wins": 1,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 3
+        },
+        "JustxDerk": {
+            "player_name": "JustxDerk",
+            "rank": 13,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "Johansel": {
+            "player_name": "Johansel",
+            "rank": 17,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "MormonMatt": {
+            "player_name": "MormonMatt",
+            "rank": 17,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "NHoff": {
+            "player_name": "NHoff",
+            "rank": 17,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 0
+        },
+        "ScChristo": {
+            "player_name": "ScChristo",
+            "rank": 17,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 1,
+            "game_losses": 4
+        },
+        "Wacashooter": {
+            "player_name": "Wacashooter",
+            "rank": 17,
+            "wins": 0,
+            "losses": 2,
+            "game_wins": 0,
+            "game_losses": 4
+        }
+    },
+    "brackets": {
+        "main_brackets": {
+            "1": [
+                {
+                    "player1": "Christianayala1",
+                    "player2": "goateeVGC",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "Christianayala1"
+                },
+                {
+                    "player1": "IronVortex",
+                    "player2": "Emgkush",
+                    "player1_score": 0,
+                    "player2_score": -1,
+                    "winner": "IronVortex"
+                },
+                {
+                    "player1": "ScChristo",
+                    "player2": "kagmpwtpd",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "kagmpwtpd"
+                },
+                {
+                    "player1": "Wacashooter",
+                    "player2": "blepnir",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "blepnir"
+                },
+                {
+                    "player1": "LWJosh91",
+                    "player2": "Johansel",
+                    "player1_score": 0,
+                    "player2_score": -1,
+                    "winner": "LWJosh91"
+                }
+            ],
+            "2": [
+                {
+                    "player1": "OutOfPoket",
+                    "player2": "Christianayala1",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "OutOfPoket"
+                },
+                {
+                    "player1": "Balk88",
+                    "player2": "Equarican",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "Equarican"
+                },
+                {
+                    "player1": "JustxDerk",
+                    "player2": "IronVortex",
+                    "player1_score": -1,
+                    "player2_score": 0,
+                    "winner": "IronVortex"
+                },
+                {
+                    "player1": "manintheplanet",
+                    "player2": "kagmpwtpd",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "kagmpwtpd"
+                },
+                {
+                    "player1": "ArceusAurelius",
+                    "player2": "blepnir",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "ArceusAurelius"
+                },
+                {
+                    "player1": "Rangasamy",
+                    "player2": "MormonMatt",
+                    "player1_score": 0,
+                    "player2_score": -1,
+                    "winner": "Rangasamy"
+                },
+                {
+                    "player1": "uoynehc",
+                    "player2": "LWJosh91",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "LWJosh91"
+                },
+                {
+                    "player1": "NHoff",
+                    "player2": "ogBlairstoise",
+                    "player1_score": -1,
+                    "player2_score": 0,
+                    "winner": "ogBlairstoise"
+                }
+            ],
+            "3": [
+                {
+                    "player1": "OutOfPoket",
+                    "player2": "Equarican",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "OutOfPoket"
+                },
+                {
+                    "player1": "IronVortex",
+                    "player2": "kagmpwtpd",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "kagmpwtpd"
+                },
+                {
+                    "player1": "ArceusAurelius",
+                    "player2": "Rangasamy",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "ArceusAurelius"
+                },
+                {
+                    "player1": "LWJosh91",
+                    "player2": "ogBlairstoise",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "ogBlairstoise"
+                }
+            ],
+            "4": [
+                {
+                    "player1": "OutOfPoket",
+                    "player2": "kagmpwtpd",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "OutOfPoket"
+                },
+                {
+                    "player1": "ArceusAurelius",
+                    "player2": "ogBlairstoise",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "ArceusAurelius"
+                }
+            ],
+            "5": [
+                {
+                    "player1": "OutOfPoket",
+                    "player2": "ArceusAurelius",
+                    "player1_score": 3,
+                    "player2_score": 0,
+                    "winner": "OutOfPoket"
+                }
+            ],
+            "-1": [
+                {
+                    "player1": "NHoff",
+                    "player2": "goateeVGC",
+                    "player1_score": -1,
+                    "player2_score": 0,
+                    "winner": "goateeVGC"
+                },
+                {
+                    "player1": "MormonMatt",
+                    "player2": "Emgkush",
+                    "player1_score": -1,
+                    "player2_score": 0,
+                    "winner": "Emgkush"
+                },
+                {
+                    "player1": "blepnir",
+                    "player2": "ScChristo",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "blepnir"
+                },
+                {
+                    "player1": "manintheplanet",
+                    "player2": "Wacashooter",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "manintheplanet"
+                },
+                {
+                    "player1": "Balk88",
+                    "player2": "Johansel",
+                    "player1_score": 0,
+                    "player2_score": -1,
+                    "winner": "Balk88"
+                }
+            ],
+            "-2": [
+                {
+                    "player1": "uoynehc",
+                    "player2": "goateeVGC",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "uoynehc"
+                },
+                {
+                    "player1": "Emgkush",
+                    "player2": "blepnir",
+                    "player1_score": -1,
+                    "player2_score": 0,
+                    "winner": "blepnir"
+                },
+                {
+                    "player1": "JustxDerk",
+                    "player2": "manintheplanet",
+                    "player1_score": -1,
+                    "player2_score": 0,
+                    "winner": "manintheplanet"
+                },
+                {
+                    "player1": "Christianayala1",
+                    "player2": "Balk88",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "Balk88"
+                }
+            ],
+            "-3": [
+                {
+                    "player1": "IronVortex",
+                    "player2": "uoynehc",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "uoynehc"
+                },
+                {
+                    "player1": "Equarican",
+                    "player2": "blepnir",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "blepnir"
+                },
+                {
+                    "player1": "LWJosh91",
+                    "player2": "manintheplanet",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "LWJosh91"
+                },
+                {
+                    "player1": "Rangasamy",
+                    "player2": "Balk88",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "Balk88"
+                }
+            ],
+            "-4": [
+                {
+                    "player1": "uoynehc",
+                    "player2": "blepnir",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "uoynehc"
+                },
+                {
+                    "player1": "LWJosh91",
+                    "player2": "Balk88",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "LWJosh91"
+                }
+            ],
+            "-5": [
+                {
+                    "player1": "ogBlairstoise",
+                    "player2": "uoynehc",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "uoynehc"
+                },
+                {
+                    "player1": "kagmpwtpd",
+                    "player2": "LWJosh91",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "kagmpwtpd"
+                }
+            ],
+            "-6": [
+                {
+                    "player1": "uoynehc",
+                    "player2": "kagmpwtpd",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "kagmpwtpd"
+                }
+            ],
+            "-7": [
+                {
+                    "player1": "ArceusAurelius",
+                    "player2": "kagmpwtpd",
+                    "player1_score": 0,
+                    "player2_score": 3,
+                    "winner": "kagmpwtpd"
+                }
+            ],
+            "6": [
+                {
+                    "player1": "OutOfPoket",
+                    "player2": "kagmpwtpd",
+                    "player1_score": 3,
+                    "player2_score": 2,
+                    "winner": "OutOfPoket"
+                }
+            ]
+        },
+        "group_brackets": {}
+    }
+}
