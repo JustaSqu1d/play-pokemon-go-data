@@ -1,5259 +1,4676 @@
 [
     {
-        "team": [
-            {
-                "name": "Corsola [Galarian Form]",
+        "team": {
+            "Corsola [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Astonish",
                 "charge_move1": "Night Shade",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             }
-        ],
+        },
         "player_name": "XRVOZ",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/M7hPikBsrwVt1GgmSt9D"
     },
     {
-        "team": [
-            {
-                "name": "Emolga",
+        "team": {
+            "Emolga": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Discharge",
                 "charge_move2": "Acrobatics"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Sludge",
                 "charge_move2": "Overheat"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Shadow Punch"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             }
-        ],
+        },
         "player_name": "Aathy1",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/1HWFWrftukcj201PK7F4"
     },
     {
-        "team": [
-            {
-                "name": "Weezing [Galarian Form]",
+        "team": {
+            "Weezing [Galarian Form]": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Brutal Swing",
                 "charge_move2": "Sludge"
             },
-            {
-                "name": "Medicham",
+            "Medicham": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Psycho Cut",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Dynamic Punch"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Golisopod",
+            "Golisopod": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Aqua Jet"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Air Slash",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             }
-        ],
+        },
         "player_name": "PokemasterGTBAK",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/wN2YvJSlu8UJbJQjglhr"
     },
     {
-        "team": [
-            {
-                "name": "Serperior",
+        "team": {
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             }
-        ],
+        },
         "player_name": "AdibKhan",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/LszyyOp4vff4vIW8D7NC"
     },
     {
-        "team": [
-            {
-                "name": "Drapion",
+        "team": {
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Shadow Punch",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             }
-        ],
+        },
         "player_name": "Alan",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/qwXwIk3u6j9hrLo5ZY7A"
     },
     {
-        "team": [
-            {
-                "name": "Drapion",
+        "team": {
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Talonflame",
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Fly",
                 "charge_move2": "Brave Bird"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Frenzy Plant"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             }
-        ],
+        },
         "player_name": "EightTheGreat",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/OG1CBhjCRyKgVcfFrEA2"
     },
     {
-        "team": [
-            {
-                "name": "Forretress",
+        "team": {
+            "Forretress": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Rock Tomb"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Guzzlord",
+            "Guzzlord": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Dragon Tail",
                 "charge_move1": "Dragon Claw",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Jellicent",
+            "Jellicent": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Shadow Ball",
                 "charge_move2": "Surf"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Acrobatics",
                 "charge_move2": "Aerial Ace"
             }
-        ],
+        },
         "player_name": "Doonebug97",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/daLsgC3RKJZxfAOuDVTf"
     },
     {
-        "team": [
-            {
-                "name": "Drapion",
+        "team": {
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Shadow Punch"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Talonflame",
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Fly",
                 "charge_move2": "Brave Bird"
             }
-        ],
+        },
         "player_name": "Motiks",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/PGgttuLPCOVJ1Zl8wOMe"
     },
     {
-        "team": [
-            {
-                "name": "Lickitung",
+        "team": {
+            "Lickitung": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Lick",
                 "charge_move1": "Power Whip",
                 "charge_move2": "Hyper Beam"
             },
-            {
-                "name": "Lanturn",
+            "Lanturn": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Water Gun",
                 "charge_move1": "Surf",
                 "charge_move2": "Thunderbolt"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Dazzling Gleam"
             },
-            {
-                "name": "Skarmory",
+            "Skarmory": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Steel Wing",
                 "charge_move1": "Sky Attack",
                 "charge_move2": "Brave Bird"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Vigoroth",
+            "Vigoroth": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Rock Slide"
             }
-        ],
+        },
         "player_name": "DaftTamago",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/zkFzeM8usuuq1fzskrwB"
     },
     {
-        "team": [
-            {
-                "name": "Drapion",
+        "team": {
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Rock Slide",
                 "charge_move2": "Bone Club"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Swift"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Shadow Punch"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             }
-        ],
+        },
         "player_name": "sisicatsong",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/HTVODcHxsNpKXmllscDe"
     },
     {
-        "team": [
-            {
-                "name": "Marowak",
+        "team": {
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Drill Run",
                 "charge_move2": "Icy Wind"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Energy Ball"
             },
-            {
-                "name": "Sableye",
+            "Sableye": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Foul Play",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Manectric",
+            "Manectric": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Thunder Fang",
                 "charge_move1": "Wild Charge",
                 "charge_move2": "Psychic Fangs"
             }
-        ],
+        },
         "player_name": "FinalBossAJ",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/IyPPXyxguobzyJbc03yv"
     },
     {
-        "team": [
-            {
-                "name": "Morpeko",
+        "team": {
+            "Morpeko": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Aura Wheel Electric*",
                 "charge_move2": "Psychic Fangs"
             },
-            {
-                "name": "Gastrodon",
+            "Gastrodon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Earth Power"
             },
-            {
-                "name": "Corviknight",
+            "Corviknight": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Sand Attack",
                 "charge_move1": "Iron Head",
                 "charge_move2": "Sky Attack"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Corsola [Galarian Form]",
+            "Corsola [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Astonish",
                 "charge_move1": "Night Shade",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Ariados",
+            "Ariados": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Trailblaze",
                 "charge_move2": "Lunge"
             }
-        ],
+        },
         "player_name": "beeeach7",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/w0Y6KP4siJSzxyKqrzWD"
     },
     {
-        "team": [
-            {
-                "name": "Primeape",
+        "team": {
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Close Combat",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": ""
             },
-            {
-                "name": "Absol",
+            "Absol": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Psycho Cut",
                 "charge_move1": "Megahorn",
                 "charge_move2": ""
             }
-        ],
+        },
         "player_name": "TrainerBlake955",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/AsXrin8glg9THILcaqre"
     },
     {
-        "team": [
-            {
-                "name": "Dewgong",
+        "team": {
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Sableye",
+            "Sableye": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Foul Play",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Emolga",
+            "Emolga": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Discharge",
                 "charge_move2": "Acrobatics"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             }
-        ],
+        },
         "player_name": "Meteorfallian",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/JiZRumJyW8urT00XWnt6"
     },
     {
-        "team": [
-            {
-                "name": "Talonflame",
+        "team": {
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Fly",
                 "charge_move2": "Brave Bird"
             },
-            {
-                "name": "Carbink",
+            "Carbink": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Rock Throw",
                 "charge_move1": "Moonblast",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Swift"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Sludge Bomb",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Gastrodon",
+            "Gastrodon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Earth Power"
             }
-        ],
+        },
         "player_name": "LugiaMaster0249",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/2w0W1dz6Qss6xAZcO53R"
     },
     {
-        "team": [
-            {
-                "name": "Drapion",
+        "team": {
+            "Drapion": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Sludge Bomb",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Talonflame",
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Fly",
                 "charge_move2": "Brave Bird"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Swift",
                 "charge_move2": "Icy Wind"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             }
-        ],
+        },
         "player_name": "CadoYoung",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/TrqOn0gFIVjDY2aj3Eoh"
     },
     {
-        "team": [
-            {
-                "name": "Primeape",
+        "team": {
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Close Combat",
                 "charge_move2": "Rage Fist"
             },
-            {
-                "name": "Steelix",
+            "Steelix": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Fang",
                 "charge_move1": "Breaking Swipe",
                 "charge_move2": "Psychic Fangs"
             },
-            {
-                "name": "Avalugg",
+            "Avalugg": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Fang",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Avalanche"
             },
-            {
-                "name": "Lanturn",
+            "Lanturn": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Water Gun",
                 "charge_move1": "Surf",
                 "charge_move2": "Thunderbolt"
             },
-            {
-                "name": "Miltank",
+            "Miltank": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Rollout",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Thunderbolt"
             },
-            {
-                "name": "Quagsire",
+            "Quagsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Stone Edge"
             }
-        ],
+        },
         "player_name": "AwfullyPretty",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/yqvcH37rgV1LuTRFHJUx"
     },
     {
-        "team": [
-            {
-                "name": "Zygarde",
+        "team": {
+            "Zygarde": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bite",
                 "charge_move1": "Crunch",
                 "charge_move2": ""
             },
-            {
-                "name": "Seviper",
+            "Seviper": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Iron Tail",
                 "charge_move1": "Poison Fang",
                 "charge_move2": ""
             },
-            {
-                "name": "Snorlax",
+            "Snorlax": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Lick",
                 "charge_move1": "Earthquake",
                 "charge_move2": ""
             },
-            {
-                "name": "Jynx",
+            "Jynx": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Confusion",
                 "charge_move1": "Draining Kiss",
                 "charge_move2": ""
             }
-        ],
+        },
         "player_name": "calistoth",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/xbloKaWfuC6QUyH0DN7n"
     },
     {
-        "team": [
-            {
-                "name": "Corviknight",
+        "team": {
+            "Corviknight": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Sand Attack",
                 "charge_move1": "Iron Head",
                 "charge_move2": "Sky Attack"
             },
-            {
-                "name": "Moltres [Galarian Form]",
+            "Moltres [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Sucker Punch",
                 "charge_move1": "Brave Bird",
                 "charge_move2": "Ancient Power"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Rock Slide",
                 "charge_move2": "Bone Club"
             },
-            {
-                "name": "Toxapex",
+            "Toxapex": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Jab",
                 "charge_move1": "Brine",
                 "charge_move2": "Sludge Wave"
             },
-            {
-                "name": "Blastoise",
+            "Blastoise": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Water Gun",
                 "charge_move1": "Skull Bash",
                 "charge_move2": "Hydro Cannon"
             },
-            {
-                "name": "Runerigus",
+            "Runerigus": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Shadow Ball",
                 "charge_move2": "Rock Tomb"
             }
-        ],
+        },
         "player_name": "CamHaub",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/CKDuwTWXTvnzeGgxZdAt"
     },
     {
-        "team": [
-            {
-                "name": "Annihilape",
+        "team": {
+            "Annihilape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Drill Run",
                 "charge_move2": "Icy Wind"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             }
-        ],
+        },
         "player_name": "Ashtonash",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/3A3Sl7G6aL799blW5qEV"
     },
     {
-        "team": [
-            {
-                "name": "Wigglytuff",
+        "team": {
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Swift",
                 "charge_move2": "Icy Wind"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Morpeko",
+            "Morpeko": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Aura Wheel Electric*",
                 "charge_move2": "Psychic Fangs"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Frenzy Plant"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Brutal Swing",
                 "charge_move2": "Sludge"
             }
-        ],
+        },
         "player_name": "C3byy",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/v0zRXFxVJeJpWyYEq5Dk"
     },
     {
-        "team": [
-            {
-                "name": "Clodsire",
+        "team": {
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Stone Edge"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Energy Ball"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Sandslash [Alolan Form]",
+            "Sandslash [Alolan Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Powder Snow",
                 "charge_move1": "Drill Run",
                 "charge_move2": "Ice Punch"
             }
-        ],
+        },
         "player_name": "DarkerCatherine",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/cZZhafn9BobmPGxgWumd"
     },
     {
-        "team": [
-            {
-                "name": "Diggersby",
+        "team": {
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Stunfisk [Galarian Form]",
+            "Stunfisk [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Rock Slide",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Emolga",
+            "Emolga": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Discharge",
                 "charge_move2": "Acrobatics"
             },
-            {
-                "name": "Annihilape",
+            "Annihilape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             }
-        ],
+        },
         "player_name": "CaptainTigger98",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/uccN99cnR04d86QbrUy6"
     },
     {
-        "team": [
-            {
-                "name": "Drapion",
+        "team": {
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Steelix",
+            "Steelix": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Thunder Fang",
                 "charge_move1": "Psychic Fangs",
                 "charge_move2": "Breaking Swipe"
             },
-            {
-                "name": "Golisopod",
+            "Golisopod": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Aqua Jet",
                 "charge_move2": "X-Scissor"
             },
-            {
-                "name": "Gastrodon",
+            "Gastrodon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Earth Power",
                 "charge_move2": "Body Slam"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Acrobatics"
             }
-        ],
+        },
         "player_name": "Reis2Occasion",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/KzeEWMZsmSTrDQgnpCot"
     },
     {
-        "team": [
-            {
-                "name": "Corsola [Galarian Form]",
+        "team": {
+            "Corsola [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Astonish",
                 "charge_move1": "Power Gem",
                 "charge_move2": "Night Shade"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Talonflame",
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Brave Bird",
                 "charge_move2": "Fly"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             }
-        ],
+        },
         "player_name": "Chrisdadude13",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/NxNRTJBKBmH702GFafzl"
     },
     {
-        "team": [
-            {
-                "name": "Serperior",
+        "team": {
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Toxapex",
+            "Toxapex": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Jab",
                 "charge_move1": "Brine",
                 "charge_move2": "Sludge Wave"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Sableye",
+            "Sableye": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Power Gem",
                 "charge_move2": "Foul Play"
             }
-        ],
+        },
         "player_name": "hsineerg",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/11PC6ZrtvayIzfhZs4YL"
     },
     {
-        "team": [
-            {
-                "name": "Primeape",
+        "team": {
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Close Combat",
                 "charge_move2": "Rage Fist"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Swift"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Shadow Punch"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             }
-        ],
+        },
         "player_name": "Lawsoncody22",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/CO1dQVWQMz80h4a51nA3"
     },
     {
-        "team": [
-            {
-                "name": "Serperior",
+        "team": {
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Rock Slide",
                 "charge_move2": "Bone Club"
             },
-            {
-                "name": "Walrein",
+            "Walrein": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Powder Snow",
                 "charge_move1": "Icicle Spear",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Corsola [Galarian Form]",
+            "Corsola [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Astonish",
                 "charge_move1": "Night Shade",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             }
-        ],
+        },
         "player_name": "ProfCobalt27",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/92u8yCjI1BzjRb4F50XE"
     },
     {
-        "team": [
-            {
-                "name": "Diggersby",
+        "team": {
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Quagsire",
+            "Quagsire": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Stone Edge",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Emolga",
+            "Emolga": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Acrobatics",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Ariados",
+            "Ariados": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Trailblaze",
                 "charge_move2": "Lunge"
             }
-        ],
+        },
         "player_name": "flyingpizza1",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/cpRSqw9HvChOJLmzMpU1"
     },
     {
-        "team": [
-            {
-                "name": "Clodsire",
+        "team": {
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Sludge Bomb",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Spiritomb",
+            "Spiritomb": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Sucker Punch",
                 "charge_move1": "Shadow Ball",
                 "charge_move2": "Rock Tomb"
             }
-        ],
+        },
         "player_name": "TheC2U",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/VfN420buDVGbq28cTTFE"
     },
     {
-        "team": [
-            {
-                "name": "Marowak",
+        "team": {
+            "Marowak": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Earthquake",
                 "charge_move2": ""
             },
-            {
-                "name": "Malamar",
+            "Malamar": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Psywave*",
                 "charge_move1": "Foul Play",
                 "charge_move2": ""
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Night Slash",
                 "charge_move2": ""
             },
-            {
-                "name": "Stunfisk",
+            "Stunfisk": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Mud Bomb",
                 "charge_move2": ""
             },
-            {
-                "name": "Greninja",
+            "Greninja": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Feint Attack",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": ""
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Shadow Ball",
                 "charge_move2": ""
             }
-        ],
+        },
         "player_name": "DeeDueck",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/BG2R841x7tJWXDW7blyp"
     },
     {
-        "team": [
-            {
-                "name": "Jumpluff",
+        "team": {
+            "Jumpluff": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Acrobatics",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Jellicent",
+            "Jellicent": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Surf",
                 "charge_move2": "Shadow Ball"
             },
-            {
-                "name": "Forretress",
+            "Forretress": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "Rock Tomb",
                 "charge_move2": "Mirror Shot"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             }
-        ],
+        },
         "player_name": "doctorroastbeef",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/Cn9oZjKeTyHp0m5cGEFy"
     },
     {
-        "team": [
-            {
-                "name": "Drapion",
+        "team": {
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Sludge Bomb"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Hydro Cannon"
             },
-            {
-                "name": "Dunsparce",
+            "Dunsparce": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Rollout",
                 "charge_move1": "Rock Slide",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Corsola [Galarian Form]",
+            "Corsola [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Astonish",
                 "charge_move1": "Night Shade",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             }
-        ],
+        },
         "player_name": "SaltOpal",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/S8zlIsaN6VFFakDezhxz"
     },
     {
-        "team": [
-            {
-                "name": "Azumarill",
+        "team": {
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Night Slash",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Steelix",
+            "Steelix": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Fang",
                 "charge_move1": "Heavy Slam",
                 "charge_move2": "Breaking Swipe"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Energy Ball",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Sludge Bomb",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Marowak [Alolan Form]",
+            "Marowak [Alolan Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Shadow Ball",
                 "charge_move2": "Bone Club"
             }
-        ],
+        },
         "player_name": "Primaonly",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/cVCA0Wtru8qqr73NIWDT"
     },
     {
-        "team": [
-            {
-                "name": "Azumarill",
+        "team": {
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Emolga",
+            "Emolga": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Discharge",
                 "charge_move2": "Acrobatics"
             },
-            {
-                "name": "Quagsire",
+            "Quagsire": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Stone Edge"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             }
-        ],
+        },
         "player_name": "DaiLapCheurng",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/gwwf2c0KQ4t7bBR0lZYu"
     },
     {
-        "team": [
-            {
-                "name": "Electabuzz",
+        "team": {
+            "Electabuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Thunderbolt",
                 "charge_move2": ""
             },
-            {
-                "name": "Lapras",
+            "Lapras": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Water Gun",
                 "charge_move1": "Skull Bash",
                 "charge_move2": ""
             },
-            {
-                "name": "Snorlax",
+            "Snorlax": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Lick",
                 "charge_move1": "Skull Bash",
                 "charge_move2": ""
             }
-        ],
+        },
         "player_name": "bibblecult",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/Ul4QwanKpCu1yyxJb69F"
     },
     {
-        "team": [
-            {
-                "name": "Emolga",
+        "team": {
+            "Emolga": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Acrobatics",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Annihilape",
+            "Annihilape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Rage Fist"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             }
-        ],
+        },
         "player_name": "NiteTimeClasher",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/OQIsIhpuvuWVRKoHONmZ"
     },
     {
-        "team": [
-            {
-                "name": "Azumarill",
+        "team": {
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Close Combat",
                 "charge_move2": "Rage Fist"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Rock Slide",
                 "charge_move2": "Bone Club"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Sludge Bomb"
             }
-        ],
+        },
         "player_name": "thewalkingdonut",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/uaGk9gQOQCE6tbhZDoPb"
     },
     {
-        "team": [
-            {
-                "name": "Drapion",
+        "team": {
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Shadow Punch",
                 "charge_move2": "Ice Punch"
             }
-        ],
+        },
         "player_name": "HaydonusActual",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/mrEcWa52RR9Evm8Vsra3"
     },
     {
-        "team": [
-            {
-                "name": "Dewgong",
+        "team": {
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "Discharge",
                 "charge_move2": "X-Scissor"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             }
-        ],
+        },
         "player_name": "STUDMUFFINS",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/Cb1dkuRtwsOMJ1bRNh7y"
     },
     {
-        "team": [
-            {
-                "name": "Marowak",
+        "team": {
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Hydro Cannon"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Energy Ball",
                 "charge_move2": "Acrobatics"
             },
-            {
-                "name": "Jellicent",
+            "Jellicent": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Shadow Ball",
                 "charge_move2": "Surf"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Swift",
                 "charge_move2": "Icy Wind"
             }
-        ],
+        },
         "player_name": "KINGLUGIA49",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/VLC4IMHPRJJOAv1e1ucN"
     },
     {
-        "team": [
-            {
-                "name": "Jumpluff",
+        "team": {
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Energy Ball"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Steelix",
+            "Steelix": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Thunder Fang",
                 "charge_move1": "Breaking Swipe",
                 "charge_move2": "Psychic Fangs"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Golisopod",
+            "Golisopod": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Aqua Jet",
                 "charge_move2": "X-Scissor"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             }
-        ],
+        },
         "player_name": "Jacoloco2",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/gA8oG1B4ckEN8haEhhsq"
     },
     {
-        "team": [
-            {
-                "name": "Stunfisk [Galarian Form]",
+        "team": {
+            "Stunfisk [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Earthquake",
                 "charge_move2": ""
             },
-            {
-                "name": "Kricketune",
+            "Kricketune": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fury Cutter",
                 "charge_move1": "X-Scissor",
                 "charge_move2": ""
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Acrobatics",
                 "charge_move2": ""
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": ""
             },
-            {
-                "name": "Kangaskhan",
+            "Kangaskhan": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Crunch",
                 "charge_move2": ""
             },
-            {
-                "name": "Entei",
+            "Entei": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fire Fang",
                 "charge_move1": "Flame Charge",
                 "charge_move2": ""
             }
-        ],
+        },
         "player_name": "Snorlupi",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/xS3tpQN4RRDDpKDYvJOC"
     },
     {
-        "team": [
-            {
-                "name": "Gastrodon",
+        "team": {
+            "Gastrodon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Earth Power"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Brutal Swing",
                 "charge_move2": "Sludge"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             }
-        ],
+        },
         "player_name": "XjeraldX",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/ss3lkqG4Dif4ciAe2hKH"
     },
     {
-        "team": [
-            {
-                "name": "Flareon",
+        "team": {
+            "Flareon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fire Spin",
                 "charge_move1": "Fire Blast",
                 "charge_move2": ""
             },
-            {
-                "name": "Throh",
+            "Throh": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Low Kick",
                 "charge_move1": "Low Sweep",
                 "charge_move2": ""
             },
-            {
-                "name": "Golduck",
+            "Golduck": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Water Gun",
                 "charge_move1": "Psychic",
                 "charge_move2": ""
             }
-        ],
+        },
         "player_name": "JeStaaaa",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/izL7lU8n6eZUdsUDIqSP"
     },
     {
-        "team": [
-            {
-                "name": "Gastrodon",
+        "team": {
+            "Gastrodon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Earth Power"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Frenzy Plant"
             },
-            {
-                "name": "Moltres [Galarian Form]",
+            "Moltres [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Sucker Punch",
                 "charge_move1": "Ancient Power",
                 "charge_move2": "Brave Bird"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Sandslash [Alolan Form]",
+            "Sandslash [Alolan Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Powder Snow",
                 "charge_move1": "Drill Run",
                 "charge_move2": "Ice Punch"
             }
-        ],
+        },
         "player_name": "FerSilfore",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/lzz4pvyDhka70TXUpdjV"
     },
     {
-        "team": [
-            {
-                "name": "Dewgong",
+        "team": {
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Quagsire",
+            "Quagsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Stone Edge"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Air Slash",
                 "charge_move1": "Foul Play",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Sludge",
                 "charge_move2": "Brutal Swing"
             }
-        ],
+        },
         "player_name": "451Days",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/p0KcCwguIKzs6KLdvAip"
     },
     {
-        "team": [
-            {
-                "name": "Dewgong",
+        "team": {
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "Discharge",
                 "charge_move2": "X-Scissor"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Shadow Punch"
             }
-        ],
+        },
         "player_name": "JustMeJoshLee",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/Z8L7gFbAZ1bjD9TB4Sso"
     },
     {
-        "team": [
-            {
-                "name": "Talonflame",
+        "team": {
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Brave Bird",
                 "charge_move2": "Fly"
             },
-            {
-                "name": "Toxapex",
+            "Toxapex": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Jab",
                 "charge_move1": "Brine",
                 "charge_move2": "Sludge Wave"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Sableye",
+            "Sableye": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Foul Play",
                 "charge_move2": "Power Gem"
             }
-        ],
+        },
         "player_name": "ChemCoop",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/uAGvVPf3KGBzKngUumm9"
     },
     {
-        "team": [
-            {
-                "name": "Primeape",
+        "team": {
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Jellicent",
+            "Jellicent": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Surf",
                 "charge_move2": "Shadow Ball"
             },
-            {
-                "name": "Sandslash [Alolan Form]",
+            "Sandslash [Alolan Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Powder Snow",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Quagsire",
+            "Quagsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Stone Edge"
             },
-            {
-                "name": "Dragonair",
+            "Dragonair": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Dragon Breath",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Lapras",
+            "Lapras": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Frost Breath",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Surf"
             }
-        ],
+        },
         "player_name": "SatoruuGojooooo",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/kb5hDLFNFGxPGEsRtmUX"
     },
     {
-        "team": [
-            {
-                "name": "Carbink",
+        "team": {
+            "Carbink": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Rock Throw",
                 "charge_move1": "Moonblast",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Stone Edge"
             },
-            {
-                "name": "Lanturn",
+            "Lanturn": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Water Gun",
                 "charge_move1": "Thunderbolt",
                 "charge_move2": "Surf"
             },
-            {
-                "name": "Medicham",
+            "Medicham": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Psycho Cut",
                 "charge_move1": "Dynamic Punch",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             }
-        ],
+        },
         "player_name": "Katy46",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/M1GEUmK5fIi7TuE2WYLb"
     },
     {
-        "team": [
-            {
-                "name": "Clodsire",
+        "team": {
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Stone Edge"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Talonflame",
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Brave Bird",
                 "charge_move2": "Fly"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Shadow Punch"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Discharge"
             }
-        ],
+        },
         "player_name": "Kanjidada",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/BYET6LkERRePrypsaHjQ"
     },
     {
-        "team": [
-            {
-                "name": "Jumpluff",
+        "team": {
+            "Jumpluff": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Acrobatics"
             },
-            {
-                "name": "Regice",
+            "Regice": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Lock-On",
                 "charge_move1": "Thunder",
                 "charge_move2": "Blizzard"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Goodra",
+            "Goodra": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Dragon Breath",
                 "charge_move1": "Thunder Punch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             }
-        ],
+        },
         "player_name": "Hdmvzkf",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/63KEgFxhvIwAElzMykDA"
     },
     {
-        "team": [
-            {
-                "name": "Azumarill",
+        "team": {
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Talonflame",
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Fly",
                 "charge_move2": "Brave Bird"
             }
-        ],
+        },
         "player_name": "ccconcaccc",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/8pXEwHRK1X46eOqeuEbJ"
     },
     {
-        "team": [
-            {
-                "name": "Weezing [Galarian Form]",
+        "team": {
+            "Weezing [Galarian Form]": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Sludge",
                 "charge_move2": "Overheat"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Energy Ball"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             }
-        ],
+        },
         "player_name": "AShadyEquation",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/SM9zdLxqT7YPWgNxNYcN"
     },
     {
-        "team": [
-            {
-                "name": "Azumarill",
+        "team": {
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Shadow Punch"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Swift",
                 "charge_move2": "Icy Wind"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             }
-        ],
+        },
         "player_name": "KPine28",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/Tuk3yCQxao3iWIlSkZb9"
     },
     {
-        "team": [
-            {
-                "name": "Jumpluff",
+        "team": {
+            "Jumpluff": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Acrobatics",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Shadow Punch"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Sludge",
                 "charge_move2": "Brutal Swing"
             }
-        ],
+        },
         "player_name": "LyleJeffsIII",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/FxaPcb2f0dvy46tLm6K1"
     },
     {
-        "team": [
-            {
-                "name": "Primeape",
+        "team": {
+            "Primeape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Steelix",
+            "Steelix": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Fang",
                 "charge_move1": "Crunch",
                 "charge_move2": "Psychic Fangs"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Sludge Bomb",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Frenzy Plant"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Swift"
             }
-        ],
+        },
         "player_name": "JentilakGaming",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/kDNjyLwHqEuhhNUYwfFB"
     },
     {
-        "team": [
-            {
-                "name": "Azumarill",
+        "team": {
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Dunsparce",
+            "Dunsparce": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Rollout",
                 "charge_move1": "Drill Run",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Frenzy Plant"
             },
-            {
-                "name": "Lickilicky",
+            "Lickilicky": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Rollout",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Sludge Bomb"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Crunch"
             }
-        ],
+        },
         "player_name": "Tightone",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/22i0bcazuZN6NLqEh6dx"
     },
     {
-        "team": [
-            {
-                "name": "Rillaboom",
+        "team": {
+            "Rillaboom": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Razor Leaf",
                 "charge_move1": "Earth Power",
                 "charge_move2": "Grass Knot"
             },
-            {
-                "name": "Lapras",
+            "Lapras": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Frost Breath",
                 "charge_move1": "Surf",
                 "charge_move2": ""
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Fang",
                 "charge_move1": "Fell Stinger",
                 "charge_move2": ""
             },
-            {
-                "name": "Deoxys [Defense Forme]",
+            "Deoxys [Defense Forme]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Psycho Boost",
                 "charge_move2": ""
             },
-            {
-                "name": "Sandslash [Alolan Form]",
+            "Sandslash [Alolan Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Powder Snow",
                 "charge_move1": "Ice Punch",
                 "charge_move2": ""
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Foul Play",
                 "charge_move2": ""
             }
-        ],
+        },
         "player_name": "ywgpdxmsp",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/nAdtXTjqpg8lgwamK9k5"
     },
     {
-        "team": [
-            {
-                "name": "Primeape",
+        "team": {
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Sludge Bomb",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Energy Ball",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Stunfisk",
+            "Stunfisk": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Mud Bomb",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Swift",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             }
-        ],
+        },
         "player_name": "ILoveSushi37",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/ME08KHZNuGIrT9hcKsA9"
     },
     {
-        "team": [
-            {
-                "name": "Emolga",
+        "team": {
+            "Emolga": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Acrobatics",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Drill Run",
                 "charge_move2": "Icy Wind"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Overheat",
                 "charge_move2": "Sludge"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Lokix",
+            "Lokix": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Sucker Punch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Trailblaze"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             }
-        ],
+        },
         "player_name": "Zimmykid",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/e5TDG9vN4DLu8cTRa3Iq"
     },
     {
-        "team": [
-            {
-                "name": "Forretress",
+        "team": {
+            "Forretress": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Rock Tomb"
             },
-            {
-                "name": "Emolga",
+            "Emolga": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Acrobatics",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Jellicent",
+            "Jellicent": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Shadow Ball",
                 "charge_move2": "Surf"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             }
-        ],
+        },
         "player_name": "GMEISTERJR",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/FW2vd968IiqunFn7gJAu"
     },
     {
-        "team": [
-            {
-                "name": "Drapion",
+        "team": {
+            "Drapion": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Swift",
                 "charge_move2": "Icy Wind"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Acrobatics",
                 "charge_move2": "Energy Ball"
             },
-            {
-                "name": "Jellicent",
+            "Jellicent": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Shadow Ball",
                 "charge_move2": "Surf"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             }
-        ],
+        },
         "player_name": "MattL13",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/s2GjeXfn2WG0ndNgzxKq"
     },
     {
-        "team": [
-            {
-                "name": "Primeape",
+        "team": {
+            "Primeape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Sludge Bomb",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Ariados",
+            "Ariados": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Lunge",
                 "charge_move2": "Trailblaze"
             },
-            {
-                "name": "Talonflame",
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Brave Bird",
                 "charge_move2": "Fly"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Shadow Punch",
                 "charge_move2": "Ice Punch"
             }
-        ],
+        },
         "player_name": "Rhyblet",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/9u2HC6xxXnd4dfkikaAh"
     },
     {
-        "team": [
-            {
-                "name": "Charjabug",
+        "team": {
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             }
-        ],
+        },
         "player_name": "uoynehc",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/zgVh7ySZc2rSfWTf96rp"
     },
     {
-        "team": [
-            {
-                "name": "Ninetales [Alolan Form]",
+        "team": {
+            "Ninetales [Alolan Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Weather Ball [Ice]",
                 "charge_move2": ""
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": ""
             },
-            {
-                "name": "Raichu [Alolan Form]",
+            "Raichu [Alolan Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Spark",
                 "charge_move1": "Psychic",
                 "charge_move2": "Trailblaze"
             },
-            {
-                "name": "Ludicolo",
+            "Ludicolo": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Razor Leaf",
                 "charge_move1": "Scald",
                 "charge_move2": ""
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Solar Beam",
                 "charge_move2": "Return"
             }
-        ],
+        },
         "player_name": "banasuke1112",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/xl7VpMW7uiDaFN2dZxLa"
     },
     {
-        "team": [
-            {
-                "name": "Clodsire",
+        "team": {
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Stone Edge"
             },
-            {
-                "name": "Sandslash [Alolan Form]",
+            "Sandslash [Alolan Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Powder Snow",
                 "charge_move1": "Drill Run",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Annihilape",
+            "Annihilape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Air Slash",
                 "charge_move1": "Foul Play",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             }
-        ],
+        },
         "player_name": "Macha1984",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/ZCUjSrisZFtFu7jVOg42"
     },
     {
-        "team": [
-            {
-                "name": "Venusaur",
+        "team": {
+            "Venusaur": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Sludge Bomb",
                 "charge_move2": ""
             },
-            {
-                "name": "Heatran",
+            "Heatran": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fire Spin",
                 "charge_move1": "Stone Edge",
                 "charge_move2": ""
             },
-            {
-                "name": "Flygon",
+            "Flygon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Dragon Claw",
                 "charge_move2": ""
             },
-            {
-                "name": "Basculin",
+            "Basculin": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Water Gun",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Muddy Water"
             },
-            {
-                "name": "Samurott",
+            "Samurott": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Waterfall",
                 "charge_move1": "Hydro Pump",
                 "charge_move2": "Razor Shell"
             },
-            {
-                "name": "Charizard",
+            "Charizard": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fire Spin",
                 "charge_move1": "Dragon Claw",
                 "charge_move2": "Fire Blast"
             }
-        ],
+        },
         "player_name": "coop772stryfe",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/pKm61PrfrwgHMTD3IHEC"
     },
     {
-        "team": [
-            {
-                "name": "Serperior",
+        "team": {
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Stone Edge",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Sandslash [Alolan Form]",
+            "Sandslash [Alolan Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Powder Snow",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Air Slash",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Foul Play"
             },
-            {
-                "name": "Annihilape",
+            "Annihilape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             }
-        ],
+        },
         "player_name": "Bogglish",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/rF1iOE9eiuOFeBFAOwiN"
     },
     {
-        "team": [
-            {
-                "name": "Wigglytuff",
+        "team": {
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Swift",
                 "charge_move2": "Icy Wind"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Corsola [Galarian Form]",
+            "Corsola [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Astonish",
                 "charge_move1": "Power Gem",
                 "charge_move2": "Night Shade"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             }
-        ],
+        },
         "player_name": "fatgosunerd",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/E2VmJpDg7aYFmthVTDuf"
     },
     {
-        "team": [
-            {
-                "name": "Gastrodon",
+        "team": {
+            "Gastrodon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Earth Power",
                 "charge_move2": "Water Pulse"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Close Combat",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Megahorn",
                 "charge_move2": "Sludge Bomb"
             },
-            {
-                "name": "Corsola [Galarian Form]",
+            "Corsola [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Astonish",
                 "charge_move1": "Power Gem",
                 "charge_move2": "Night Shade"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Air Slash",
                 "charge_move1": "Foul Play",
                 "charge_move2": "Aerial Ace"
             }
-        ],
+        },
         "player_name": "M00NMILKY",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/rp0LdtdwnQgHf6rBfpHP"
     },
     {
-        "team": [
-            {
-                "name": "Diggersby",
+        "team": {
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Energy Ball"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Annihilape",
+            "Annihilape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Sludge",
                 "charge_move2": "Brutal Swing"
             }
-        ],
+        },
         "player_name": "ItsAXN",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/GvUgEA5oSErzDIwh1d9X"
     },
     {
-        "team": [
-            {
-                "name": "Feraligatr",
+        "team": {
+            "Feraligatr": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Crunch",
                 "charge_move2": "Hydro Cannon"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Sludge",
                 "charge_move2": "Brutal Swing"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "Discharge",
                 "charge_move2": "X-Scissor"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Frenzy Plant"
             },
-            {
-                "name": "Goodra",
+            "Goodra": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Dragon Breath",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Thunder Punch"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Stone Edge"
             }
-        ],
+        },
         "player_name": "Sharkboyarecool",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/lfqgjBUwWNcRpS5jnnpQ"
     },
     {
-        "team": [
-            {
-                "name": "Dewgong",
+        "team": {
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Medicham",
+            "Medicham": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Power-Up Punch",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Bibarel",
+            "Bibarel": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Rollout",
                 "charge_move1": "Surf",
                 "charge_move2": "Hyper Fang"
             },
-            {
-                "name": "Quagsire",
+            "Quagsire": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Stone Edge"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Stone Edge",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Tropius",
+            "Tropius": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Air Slash",
                 "charge_move1": "Leaf Blade",
                 "charge_move2": "Aerial Ace"
             }
-        ],
+        },
         "player_name": "PokePete35",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/W8UdMyGXMiVlAOCEyGam"
     },
     {
-        "team": [
-            {
-                "name": "Malamar",
+        "team": {
+            "Malamar": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Psywave*",
                 "charge_move1": "Foul Play",
                 "charge_move2": "Superpower"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Energy Ball",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Greninja",
+            "Greninja": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Water Shuriken",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Night Slash"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Stone Edge"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             }
-        ],
+        },
         "player_name": "prnaku",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/9UBqFsO6229nkWllyyU7"
     },
     {
-        "team": [
-            {
-                "name": "Marowak",
+        "team": {
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Corsola [Galarian Form]",
+            "Corsola [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Astonish",
                 "charge_move1": "Power Gem",
                 "charge_move2": "Night Shade"
             },
-            {
-                "name": "Walrein",
+            "Walrein": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Powder Snow",
                 "charge_move1": "Icicle Spear",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Air Slash",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             }
-        ],
+        },
         "player_name": "MushromQween",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/qRIrCTRpiCRwUsR4lPOj"
     },
     {
-        "team": [
-            {
-                "name": "Emolga",
+        "team": {
+            "Emolga": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Discharge",
                 "charge_move2": "Acrobatics"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Shadow Punch",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Sludge",
                 "charge_move2": "Brutal Swing"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             }
-        ],
+        },
         "player_name": "ToastyPawRick",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/B472lRtziDaQ5rBfYodb"
     },
     {
-        "team": [
-            {
-                "name": "Marowak",
+        "team": {
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Rock Slide",
                 "charge_move2": "Bone Club"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "Discharge",
                 "charge_move2": "X-Scissor"
             },
-            {
-                "name": "Sableye",
+            "Sableye": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Foul Play",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             }
-        ],
+        },
         "player_name": "Ramberto777",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/hPmKlrj8PfNmV5Sx6nHr"
     },
     {
-        "team": [
-            {
-                "name": "Kingler",
+        "team": {
+            "Kingler": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "X-Scissor",
                 "charge_move2": ""
             },
-            {
-                "name": "Sigilyph",
+            "Sigilyph": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Air Slash",
                 "charge_move1": "Ancient Power",
                 "charge_move2": ""
             },
-            {
-                "name": "Clefable",
+            "Clefable": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Draining Kiss",
                 "charge_move2": ""
             },
-            {
-                "name": "Snorlax",
+            "Snorlax": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Zen Headbutt",
                 "charge_move1": "Body Slam",
                 "charge_move2": ""
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Acid Spray",
                 "charge_move2": "Water Pulse"
             },
-            {
-                "name": "Manectric",
+            "Manectric": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Fang",
                 "charge_move1": "Flame Burst",
                 "charge_move2": ""
             }
-        ],
+        },
         "player_name": "RyoZiiiM415",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/y1cPmAREnJHiYfR8CI9o"
     },
     {
-        "team": [
-            {
-                "name": "Azumarill",
+        "team": {
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Stone Edge"
             },
-            {
-                "name": "Moltres [Galarian Form]",
+            "Moltres [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Sucker Punch",
                 "charge_move1": "Ancient Power",
                 "charge_move2": "Brave Bird"
             },
-            {
-                "name": "Froslass",
+            "Froslass": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Avalanche",
                 "charge_move2": "Shadow Ball"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Swift",
                 "charge_move2": "Icy Wind"
             }
-        ],
+        },
         "player_name": "Geeeebus",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/dNIKNShrunVLEV69VvFF"
     },
     {
-        "team": [
-            {
-                "name": "Primeape",
+        "team": {
+            "Primeape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Sludge",
                 "charge_move2": "Brutal Swing"
             },
-            {
-                "name": "Corsola [Galarian Form]",
+            "Corsola [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Astonish",
                 "charge_move1": "Night Shade",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             }
-        ],
+        },
         "player_name": "TheTaurian22",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/hzNpsQedROTE8NZeIH2P"
     },
     {
-        "team": [
-            {
-                "name": "Marowak",
+        "team": {
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Rock Slide",
                 "charge_move2": "Bone Club"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Shadow Punch",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             }
-        ],
+        },
         "player_name": "0EL1TE0",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/AjhfnzeNg13BlynqnH8V"
     },
     {
-        "team": [
-            {
-                "name": "Victreebel",
+        "team": {
+            "Victreebel": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Magical Leaf",
                 "charge_move1": "Sludge Bomb",
                 "charge_move2": ""
             },
-            {
-                "name": "Golem",
+            "Golem": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Rock Throw",
                 "charge_move1": "Earthquake",
                 "charge_move2": ""
             },
-            {
-                "name": "Sandslash [Alolan Form]",
+            "Sandslash [Alolan Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Metal Claw",
                 "charge_move1": "Blizzard",
                 "charge_move2": ""
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Stone Edge",
                 "charge_move2": ""
             },
-            {
-                "name": "Umbreon",
+            "Umbreon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": ""
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Energy Ball",
                 "charge_move2": ""
             }
-        ],
+        },
         "player_name": "Yukonreny",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/xD74jV1QpGclGNb6PJbJ"
     },
     {
-        "team": [
-            {
-                "name": "Steelix",
+        "team": {
+            "Steelix": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Thunder Fang",
                 "charge_move1": "Psychic Fangs",
                 "charge_move2": "Breaking Swipe"
             },
-            {
-                "name": "Golisopod",
+            "Golisopod": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Aqua Jet"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Acrobatics"
             },
-            {
-                "name": "Gastrodon",
+            "Gastrodon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Earth Power"
             }
-        ],
+        },
         "player_name": "SsThorn",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/lQkVbHNwlhBiGAWEMhSU"
     },
     {
-        "team": [
-            {
-                "name": "Mandibuzz",
+        "team": {
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Spiritomb",
+            "Spiritomb": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Sucker Punch",
                 "charge_move1": "Rock Tomb",
                 "charge_move2": "Shadow Ball"
             },
-            {
-                "name": "Carbink",
+            "Carbink": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Rock Throw",
                 "charge_move1": "Power Gem",
                 "charge_move2": "Moonblast"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Drill Run",
                 "charge_move2": "Icy Wind"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Morpeko",
+            "Morpeko": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Aura Wheel Electric*",
                 "charge_move2": "Psychic Fangs"
             }
-        ],
+        },
         "player_name": "tendoreezy",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/kREQUCWBx2bWpzs7Oj1m"
     },
     {
-        "team": [
-            {
-                "name": "Ninetales",
+        "team": {
+            "Ninetales": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fire Spin",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Weather Ball [Fire]"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Sludge Bomb"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Bruxish",
+            "Bruxish": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Confusion",
                 "charge_move1": "Psychic Fangs",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bullet Seed",
                 "charge_move1": "Solar Beam",
                 "charge_move2": "Dazzling Gleam"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Sludge Bomb"
             }
-        ],
+        },
         "player_name": "Vandanna96",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/QJwnVXfRjnXUH58ofYhz"
     },
     {
-        "team": [
-            {
-                "name": "Clodsire",
+        "team": {
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Sludge Bomb"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Guzzlord",
+            "Guzzlord": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Dragon Tail",
                 "charge_move1": "Sludge Bomb",
                 "charge_move2": "Brutal Swing"
             },
-            {
-                "name": "Sableye",
+            "Sableye": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Foul Play",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Talonflame",
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Fly",
                 "charge_move2": "Brave Bird"
             }
-        ],
+        },
         "player_name": "Toad43484",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/gHEpcVdtBqsPuYKkVOfz"
     },
     {
-        "team": [
-            {
-                "name": "Aurorus",
+        "team": {
+            "Aurorus": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Powder Snow",
                 "charge_move1": "Weather Ball [Ice]",
                 "charge_move2": "Meteor Beam"
             },
-            {
-                "name": "Clodsire",
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Stone Edge",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Play Rough",
                 "charge_move2": "Ice Beam"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Low Kick",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             }
-        ],
+        },
         "player_name": "PerkyTonis",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/9Poa8lNQG54y2KfOS3u8"
     },
     {
-        "team": [
-            {
-                "name": "Clodsire",
+        "team": {
+            "Clodsire": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Earthquake",
                 "charge_move2": "Sludge Bomb"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Air Slash",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Foul Play"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Swift"
             },
-            {
-                "name": "Blastoise",
+            "Blastoise": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Water Gun",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Skull Bash"
             },
-            {
-                "name": "Morpeko",
+            "Morpeko": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Aura Wheel Electric*",
                 "charge_move2": "Psychic Fangs"
             }
-        ],
+        },
         "player_name": "x3DxCptTeemo",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/LJZzTvgMd330MaEs0xs4"
     },
     {
-        "team": [
-            {
-                "name": "Dunsparce",
+        "team": {
+            "Dunsparce": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Rollout",
                 "charge_move1": "Drill Run",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Gastrodon",
+            "Gastrodon": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Body Slam",
                 "charge_move2": "Earth Power"
             },
-            {
-                "name": "Sandslash [Alolan Form]",
+            "Sandslash [Alolan Form]": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Feraligatr",
+            "Feraligatr": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Hydro Cannon",
                 "charge_move2": "Ice Beam"
             }
-        ],
+        },
         "player_name": "Heterochromia",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/BW3lC5CzCZGqcrix7S4U"
     },
     {
-        "team": [
-            {
-                "name": "Jumpluff",
+        "team": {
+            "Jumpluff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Energy Ball"
             },
-            {
-                "name": "Annihilape",
+            "Annihilape": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Ice Punch"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Forretress",
+            "Forretress": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "Rock Tomb",
                 "charge_move2": "Earthquake"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             }
-        ],
+        },
         "player_name": "610HERO",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/rmRNjvCbojshuZiFf8AE"
     },
     {
-        "team": [
-            {
-                "name": "Steelix",
+        "team": {
+            "Steelix": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Fang",
                 "charge_move1": "Psychic Fangs",
                 "charge_move2": "Breaking Swipe"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Mandibuzz",
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Talonflame",
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Brave Bird",
                 "charge_move2": "Fly"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Frenzy Plant"
             }
-        ],
+        },
         "player_name": "xdarkarchon",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/N0VIaUkMtGUKqamHAYCL"
     },
     {
-        "team": [
-            {
-                "name": "Dewgong",
+        "team": {
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Marowak",
+            "Marowak": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Mud-Slap",
                 "charge_move1": "Bone Club",
                 "charge_move2": "Rock Slide"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Charjabug",
+            "Charjabug": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Volt Switch",
                 "charge_move1": "X-Scissor",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Sableye",
+            "Sableye": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Shadow Claw",
                 "charge_move1": "Foul Play",
                 "charge_move2": "Power Gem"
             }
-        ],
+        },
         "player_name": "twastell",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/0bQlKTXDeHmQl5xrQ7fx"
     },
     {
-        "team": [
-            {
-                "name": "Primeape",
+        "team": {
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Wigglytuff",
+            "Wigglytuff": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Charm",
                 "charge_move1": "Swift",
                 "charge_move2": "Icy Wind"
             },
-            {
-                "name": "Dewgong",
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Corsola [Galarian Form]",
+            "Corsola [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Astonish",
                 "charge_move1": "Night Shade",
                 "charge_move2": "Power Gem"
             },
-            {
-                "name": "Talonflame",
+            "Talonflame": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Incinerate",
                 "charge_move1": "Fly",
                 "charge_move2": "Flame Charge"
             }
-        ],
+        },
         "player_name": "uzzzler",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/KJaN67d9TySEGKoh7iI6"
     },
     {
-        "team": [
-            {
-                "name": "Mandibuzz",
+        "team": {
+            "Mandibuzz": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Snarl",
                 "charge_move1": "Dark Pulse",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Crunch",
                 "charge_move2": "Aqua Tail"
             },
-            {
-                "name": "Annihilape",
+            "Annihilape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Counter",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Serperior",
+            "Serperior": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Vine Whip",
                 "charge_move1": "Frenzy Plant",
                 "charge_move2": "Aerial Ace"
             },
-            {
-                "name": "Toxapex",
+            "Toxapex": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Poison Jab",
                 "charge_move1": "Sludge Wave",
                 "charge_move2": "Brine"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             }
-        ],
+        },
         "player_name": "VaciliyKozlova",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/wIY8gpA51LUyLraRjMH1"
     },
     {
-        "team": [
-            {
-                "name": "Koffing",
+        "team": {
+            "Koffing": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Infestation",
                 "charge_move1": "Sludge",
                 "charge_move2": ""
             },
-            {
-                "name": "Stunfisk [Galarian Form]",
+            "Stunfisk [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Mud Shot",
                 "charge_move1": "Earthquake",
                 "charge_move2": ""
             },
-            {
-                "name": "Fearow",
+            "Fearow": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Steel Wing",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": ""
             },
-            {
-                "name": "Houndoom",
+            "Houndoom": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fire Fang",
                 "charge_move1": "Flamethrower",
                 "charge_move2": ""
             },
-            {
-                "name": "Pelipper",
+            "Pelipper": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Water Gun",
                 "charge_move1": "Hydro Pump",
                 "charge_move2": ""
             },
-            {
-                "name": "Slowking",
+            "Slowking": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Confusion",
                 "charge_move1": "Psychic",
                 "charge_move2": ""
             }
-        ],
+        },
         "player_name": "TheWesleyBishop",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/lMi27ZIjoz2cSDmLbvnD"
     },
     {
-        "team": [
-            {
-                "name": "Dewgong",
+        "team": {
+            "Dewgong": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Ice Shard",
                 "charge_move1": "Icy Wind",
                 "charge_move2": "Drill Run"
             },
-            {
-                "name": "Primeape",
+            "Primeape": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Karate Chop",
                 "charge_move1": "Rage Fist",
                 "charge_move2": "Close Combat"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Scorching Sands",
                 "charge_move2": "Fire Punch"
             },
-            {
-                "name": "Emolga",
+            "Emolga": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Shock",
                 "charge_move1": "Acrobatics",
                 "charge_move2": "Discharge"
             },
-            {
-                "name": "Dusclops",
+            "Dusclops": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Hex",
                 "charge_move1": "Ice Punch",
                 "charge_move2": "Shadow Punch"
             },
-            {
-                "name": "Weezing [Galarian Form]",
+            "Weezing [Galarian Form]": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Brutal Swing",
                 "charge_move2": "Sludge"
             }
-        ],
+        },
         "player_name": "dapperdiscs",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/b2AkwmSQ0fgiHO4wMRbF"
     },
     {
-        "team": [
-            {
-                "name": "Malamar",
+        "team": {
+            "Malamar": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Psywave*",
                 "charge_move1": "Superpower",
                 "charge_move2": "Foul Play"
             },
-            {
-                "name": "Steelix",
+            "Steelix": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Thunder Fang",
                 "charge_move1": "Psychic Fangs",
                 "charge_move2": "Breaking Swipe"
             },
-            {
-                "name": "Diggersby",
+            "Diggersby": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Quick Attack",
                 "charge_move1": "Fire Punch",
                 "charge_move2": "Scorching Sands"
             },
-            {
-                "name": "Jumpluff",
+            "Jumpluff": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Fairy Wind",
                 "charge_move1": "Aerial Ace",
                 "charge_move2": "Acrobatics"
             },
-            {
-                "name": "Drapion",
+            "Drapion": {
                 "shadow": true,
                 "purified": false,
                 "fast_move": "Poison Sting",
                 "charge_move1": "Aqua Tail",
                 "charge_move2": "Crunch"
             },
-            {
-                "name": "Azumarill",
+            "Azumarill": {
                 "shadow": false,
                 "purified": false,
                 "fast_move": "Bubble",
                 "charge_move1": "Ice Beam",
                 "charge_move2": "Play Rough"
             }
-        ],
+        },
         "player_name": "XiaoLongBao1023",
         "url": "https://rk9.gg/teamlist-go/public/VC03m44v73UDm1XoXY7N/pdNf4grYvKztgqIbV9hl"
     }
