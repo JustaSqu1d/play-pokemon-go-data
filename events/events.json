@@ -1,4 +1,149 @@
 {
+  "worlds2026": {
+    "name": "2026 Pok\u00e9mon World Championships",
+    "id": "worlds2026",
+    "time": 1787875200
+  },
+  "naic2026": {
+    "name": "2026 Pok\u00e9mon North America International Championships",
+    "id": "naic2026",
+    "time": 1781222400
+  },
+  "turin2026": {
+    "name": "Turin Pok\u00e9mon Special Championships 2026",
+    "id": "turin2026",
+    "time": 1780704000
+  },
+  "lima2026": {
+    "name": "Lima Pok\u00e9mon Special Championships 2026",
+    "id": "lima2026",
+    "time": 1779494400
+  },
+  "campinas2026": {
+    "name": "Campinas Pok\u00e9mon Regional Championships 2026",
+    "id": "campinas2026",
+    "time": 1778889600
+  },
+  "utrecht2026": {
+    "name": "Utrecht Pok\u00e9mon Regional Championships 2026",
+    "id": "utrecht2026",
+    "time": 1778889600
+  },
+  "prague2026": {
+    "name": "Prague Pok\u00e9mon Regional Championships 2026",
+    "id": "prague2026",
+    "time": 1777075200
+  },
+  "quer\u00e9taro2026": {
+    "name": "Quer\u00e9taro Pok\u00e9mon Regional Championships 2026",
+    "id": "quer\u00e9taro2026",
+    "time": 1775260800
+  },
+  "seville2026": {
+    "name": "Seville Pok\u00e9mon Special Championships 2026",
+    "id": "seville2026",
+    "time": 1774656000
+  },
+  "curitiba2026": {
+    "name": "Curitiba Pok\u00e9mon Regional Championships 2026",
+    "id": "curitiba2026",
+    "time": 1773446400
+  },
+  "seattle2026": {
+    "name": "Seattle Pok\u00e9mon Regional Championships 2026",
+    "id": "seattle2026",
+    "time": 1772150400
+  },
+  "euic2026": {
+    "name": "2026 Pok\u00e9mon Europe International Championships",
+    "id": "euic2026",
+    "time": 1770940800
+  },
+  "santiago2026": {
+    "name": "Santiago Pok\u00e9mon Regional Championships 2026",
+    "id": "santiago2026",
+    "time": 1770422400
+  },
+  "birmingham2026": {
+    "name": "Birmingham Pok\u00e9mon Regional Championships 2026",
+    "id": "birmingham2026",
+    "time": 1769212800
+  },
+  "m\u00e9rida2026": {
+    "name": "M\u00e9rida Pok\u00e9mon Regional Championships 2026",
+    "id": "m\u00e9rida2026",
+    "time": 1769212800
+  },
+  "auckland2026": {
+    "name": "Auckland Pok\u00e9mon Special Championships 2026",
+    "id": "auckland2026",
+    "time": 1769212800
+  },
+  "toronto2026": {
+    "name": "Toronto Pok\u00e9mon Regional Championships 2026",
+    "id": "toronto2026",
+    "time": 1768521600
+  },
+  "stuttgart2026": {
+    "name": "Stuttgart Pok\u00e9mon Regional Championships 2026",
+    "id": "stuttgart2026",
+    "time": 1764374400
+  },
+  "laic2026": {
+    "name": "2026 Pok\u00e9mon Latin America International Championships",
+    "id": "laic2026",
+    "time": 1763683200
+  },
+  "buenos2026": {
+    "name": "Buenos Aires Pok\u00e9mon Special Championships 2026",
+    "id": "buenos2026",
+    "time": 1763164800
+  },
+  "las2026": {
+    "name": "Las Vegas Pok\u00e9mon Regional Championships 2026",
+    "id": "lasvegas2026",
+    "time": 1763078400
+  },
+  "brisbane2026": {
+    "name": "Brisbane Pok\u00e9mon Regional Championships 2026",
+    "id": "brisbane2026",
+    "time": 1761955200
+  },
+  "gda\u0144sk2026": {
+    "name": "Gda\u0144sk Pok\u00e9mon Regional Championships 2026",
+    "id": "gda\u0144sk2026",
+    "time": 1761955200
+  },
+  "lille2026": {
+    "name": "Lille Pok\u00e9mon Regional Championships 2026",
+    "id": "lille2026",
+    "time": 1761350400
+  },
+  "belohorizonte2026": {
+    "name": "Belo Horizonte Pok\u00e9mon Regional Championships 2026",
+    "id": "belo2026",
+    "time": 1760140800
+  },
+  "milwaukee2026": {
+    "name": "Milwaukee Pok\u00e9mon Regional Championships 2026",
+    "id": "milwaukee2026",
+    "time": 1760054400
+  },
+  "pittsburgh2026": {
+    "name": "Pittsburgh Pok\u00e9mon Regional Championships 2026",
+    "id": "pittsburgh2026",
+    "time": 1758240000
+  },
+  "frankfurt2026": {
+    "name": "Frankfurt Pok\u00e9mon Regional Championships 2026",
+    "id": "frankfurt2026",
+    "time": 1757721600
+  },
+  "monterrey2026": {
+    "name": "Monterrey Pok\u00e9mon Regional Championships 2026",
+    "id": "monterrey2026",
+    "time": 1757721600
+  },
   "worlds2025": {
     "name": "2025 Pok\u00e9mon World Championships",
     "id": "worlds2025",
