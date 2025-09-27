@@ -5,96 +5,96 @@
             "rank": 1,
             "wins": 9,
             "losses": 1,
-            "game_wins": 8,
-            "game_losses": 1
+            "game_wins": 22,
+            "game_losses": 9
         },
         "P4T0M4N": {
             "player_name": "P4T0M4N",
             "rank": 2,
             "wins": 8,
             "losses": 2,
-            "game_wins": 8,
-            "game_losses": 1
+            "game_wins": 18,
+            "game_losses": 8
         },
         "LNDsRargef": {
             "player_name": "LNDsRargef",
             "rank": 3,
             "wins": 7,
             "losses": 2,
-            "game_wins": 8,
-            "game_losses": 0
+            "game_wins": 16,
+            "game_losses": 7
         },
         "LNDsKourlash": {
             "player_name": "LNDsKourlash",
             "rank": 4,
             "wins": 9,
             "losses": 2,
-            "game_wins": 10,
-            "game_losses": 5
+            "game_wins": 18,
+            "game_losses": 8
         },
         "LyleJeffsIII": {
             "player_name": "LyleJeffsIII",
             "rank": 5,
             "wins": 5,
             "losses": 2,
-            "game_wins": 10,
-            "game_losses": 1
+            "game_wins": 11,
+            "game_losses": 5
         },
         "Maxy1000000P": {
             "player_name": "Maxy1000000P",
             "rank": 5,
             "wins": 6,
             "losses": 2,
-            "game_wins": 6,
-            "game_losses": 1
+            "game_wins": 11,
+            "game_losses": 7
         },
         "Firestar73": {
             "player_name": "Firestar73",
             "rank": 7,
             "wins": 9,
             "losses": 2,
-            "game_wins": 15,
-            "game_losses": 5
+            "game_wins": 19,
+            "game_losses": 8
         },
         "MasterMihir295": {
             "player_name": "MasterMihir295",
             "rank": 7,
             "wins": 9,
             "losses": 2,
-            "game_wins": 15,
-            "game_losses": 5
+            "game_wins": 20,
+            "game_losses": 9
         },
         "IceCr1S": {
             "player_name": "IceCr1S",
             "rank": 9,
             "wins": 5,
             "losses": 2,
-            "game_wins": 10,
-            "game_losses": 1
+            "game_wins": 11,
+            "game_losses": 5
         },
         "joqqs13": {
             "player_name": "joqqs13",
             "rank": 9,
             "wins": 7,
             "losses": 2,
-            "game_wins": 13,
-            "game_losses": 4
+            "game_wins": 16,
+            "game_losses": 6
         },
         "MagicMayson": {
             "player_name": "MagicMayson",
             "rank": 9,
             "wins": 5,
             "losses": 2,
-            "game_wins": 10,
-            "game_losses": 3
+            "game_wins": 11,
+            "game_losses": 7
         },
         "TrentSzcz": {
             "player_name": "TrentSzcz",
             "rank": 9,
             "wins": 5,
             "losses": 2,
-            "game_wins": 10,
-            "game_losses": 6
+            "game_wins": 11,
+            "game_losses": 8
         },
         "Emili0oXx": {
             "player_name": "Emili0oXx",
@@ -102,7 +102,7 @@
             "wins": 5,
             "losses": 2,
             "game_wins": 10,
-            "game_losses": 3
+            "game_losses": 5
         },
         "kentosarunori": {
             "player_name": "kentosarunori",
@@ -110,7 +110,7 @@
             "wins": 5,
             "losses": 2,
             "game_wins": 11,
-            "game_losses": 5
+            "game_losses": 7
         },
         "Pokemitchy62": {
             "player_name": "Pokemitchy62",
@@ -118,15 +118,15 @@
             "wins": 5,
             "losses": 2,
             "game_wins": 10,
-            "game_losses": 4
+            "game_losses": 6
         },
         "TontonBatteuse": {
             "player_name": "TontonBatteuse",
             "rank": 13,
             "wins": 5,
             "losses": 2,
-            "game_wins": 10,
-            "game_losses": 4
+            "game_wins": 11,
+            "game_losses": 6
         },
         "WooIfpack": {
             "player_name": "WooIfpack",
@@ -1826,6 +1826,178 @@
                     "player1_score": 0,
                     "player2_score": 2,
                     "winner": "LyleJeffsIII"
+                },
+                {
+                    "player1": "P4T0M4N",
+                    "player2": "Maxy1000000P",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "P4T0M4N"
+                },
+                {
+                    "player1": "Beelzeboy",
+                    "player2": "IceCr1S",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "Beelzeboy"
+                },
+                {
+                    "player1": "LNDsRargef",
+                    "player2": "MagicMayson",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "LNDsRargef"
+                }
+            ],
+            "2": [
+                {
+                    "player1": "LyleJeffsIII",
+                    "player2": "P4T0M4N",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "P4T0M4N"
+                },
+                {
+                    "player1": "Beelzeboy",
+                    "player2": "LNDsRargef",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "Beelzeboy"
+                }
+            ],
+            "3": [
+                {
+                    "player1": "P4T0M4N",
+                    "player2": "Beelzeboy",
+                    "player1_score": 3,
+                    "player2_score": 1,
+                    "winner": "P4T0M4N"
+                }
+            ],
+            "-1": [
+                {
+                    "player1": "kentosarunori",
+                    "player2": "LNDsKourlash",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "LNDsKourlash"
+                },
+                {
+                    "player1": "Pokemitchy62",
+                    "player2": "Firestar73",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "Firestar73"
+                },
+                {
+                    "player1": "joqqs13",
+                    "player2": "Emili0oXx",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "joqqs13"
+                },
+                {
+                    "player1": "TontonBatteuse",
+                    "player2": "MasterMihir295",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "MasterMihir295"
+                }
+            ],
+            "-2": [
+                {
+                    "player1": "MagicMayson",
+                    "player2": "LNDsKourlash",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "LNDsKourlash"
+                },
+                {
+                    "player1": "IceCr1S",
+                    "player2": "Firestar73",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "Firestar73"
+                },
+                {
+                    "player1": "Maxy1000000P",
+                    "player2": "joqqs13",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "Maxy1000000P"
+                },
+                {
+                    "player1": "TrentSzcz",
+                    "player2": "MasterMihir295",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "MasterMihir295"
+                }
+            ],
+            "-3": [
+                {
+                    "player1": "LNDsKourlash",
+                    "player2": "Firestar73",
+                    "player1_score": 2,
+                    "player2_score": 0,
+                    "winner": "LNDsKourlash"
+                },
+                {
+                    "player1": "Maxy1000000P",
+                    "player2": "MasterMihir295",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "Maxy1000000P"
+                }
+            ],
+            "-4": [
+                {
+                    "player1": "LyleJeffsIII",
+                    "player2": "LNDsKourlash",
+                    "player1_score": 1,
+                    "player2_score": 2,
+                    "winner": "LNDsKourlash"
+                },
+                {
+                    "player1": "LNDsRargef",
+                    "player2": "Maxy1000000P",
+                    "player1_score": 2,
+                    "player2_score": 1,
+                    "winner": "LNDsRargef"
+                }
+            ],
+            "-5": [
+                {
+                    "player1": "LNDsKourlash",
+                    "player2": "LNDsRargef",
+                    "player1_score": 0,
+                    "player2_score": 2,
+                    "winner": "LNDsRargef"
+                }
+            ],
+            "-6": [
+                {
+                    "player1": "Beelzeboy",
+                    "player2": "LNDsRargef",
+                    "player1_score": 3,
+                    "player2_score": 1,
+                    "winner": "Beelzeboy"
+                }
+            ],
+            "4": [
+                {
+                    "player1": "P4T0M4N",
+                    "player2": "Beelzeboy",
+                    "player1_score": 1,
+                    "player2_score": 3,
+                    "winner": "Beelzeboy"
+                },
+                {
+                    "player1": "Beelzeboy",
+                    "player2": "P4T0M4N",
+                    "player1_score": 3,
+                    "player2_score": 2,
+                    "winner": "Beelzeboy"
                 }
             ]
         },
