@@ -64,6 +64,11 @@
     "id": "santiago2026",
     "time": 1770422400
   },
+  "sydney2026": {
+    "name": "Sydney Pok\u00e9mon Regional Championships 2026",
+    "id": "sydney2026",
+    "time": 1770422400
+  },
   "birmingham2026": {
     "name": "Birmingham Pok\u00e9mon Regional Championships 2026",
     "id": "birmingham2026",
@@ -94,12 +99,12 @@
     "id": "laic2026",
     "time": 1763683200
   },
-  "buenos2026": {
+  "buenosaires2026": {
     "name": "Buenos Aires Pok\u00e9mon Special Championships 2026",
-    "id": "buenos2026",
+    "id": "buenosaires2026",
     "time": 1763164800
   },
-  "las2026": {
+  "lasvegas2026": {
     "name": "Las Vegas Pok\u00e9mon Regional Championships 2026",
     "id": "lasvegas2026",
     "time": 1763078400
